@@ -1,0 +1,17 @@
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 02:11:05 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  6.112 ms  5.769 ms  3.137 ms
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  2.949 ms  2.987 ms  2.857 ms
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  10.155 ms  8.934 ms  12.050 ms
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  74.863 ms  75.030 ms  74.531 ms
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  74.539 ms  74.703 ms  74.532 ms
+ 6  162.252.69.139 (162.252.69.139)  78.435 ms  77.854 ms  75.232 ms
+ 7  202.97.50.21 (202.97.50.21)  78.672 ms  76.281 ms  77.373 ms
+ 8  202.97.58.169 (202.97.58.169)  210.094 ms  212.943 ms  210.402 ms
+ 9   (202.97.35.101)  226.675 ms  (202.97.33.125)  218.432 ms 202.97.91.49 (202.97.91.49)  229.231 ms
+10   (202.97.35.153)  228.931 ms  232.086 ms  232.315 ms
+11  202.97.92.6 (202.97.92.6)  241.304 ms  242.612 ms  242.334 ms
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  223.211 ms  219.997 ms  220.992 ms

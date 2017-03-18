@@ -1,0 +1,16 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 05:01:36 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 1  193.1.13.1 (193.1.13.1)  0.133 ms  0.121 ms  0.118 ms
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  2.479 ms  2.475 ms  2.490 ms
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.183 ms  12.190 ms  12.186 ms
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  86.805 ms  86.825 ms  86.826 ms
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  99.737 ms  99.745 ms  99.745 ms
+ 6  et-10-2-0.105.rtr.hous.net.internet2.edu (198.71.45.13)  123.727 ms  123.775 ms  123.690 ms
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.018 ms  157.228 ms  157.215 ms
+ 8  137.164.26.200 (137.164.26.200)  156.271 ms  156.328 ms  156.311 ms
+ 9  * * *
+10  bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  185.276 ms bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  156.993 ms bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  165.277 ms
+11  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  156.991 ms cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  156.780 ms cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  156.697 ms
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  156.870 ms  156.852 ms  156.883 ms

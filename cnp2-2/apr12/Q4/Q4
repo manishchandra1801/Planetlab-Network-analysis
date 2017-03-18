@@ -1,0 +1,5 @@
+In the cnq8-packloss the last column gives the average of the packet los
+-it can be observed that the cross atlantic and cross pacific is 0%
+-Nodes in USA have more packet loss
+
+hence reliability doesnt depend on distance. 

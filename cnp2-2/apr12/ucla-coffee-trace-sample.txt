@@ -1,0 +1,16 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 04:58:57 UTC 2016
+traceroute to planetlab-coffee.ait.ie (193.1.13.12), 30 hops max, 60 byte packets
+ 1  131.179.150.3 (131.179.150.3)  1.694 ms  1.904 ms  2.131 ms
+ 2  169.232.12.154 (169.232.12.154)  0.307 ms  0.296 ms  0.325 ms
+ 3  dr01f2.csb1--cr01f2.csb1.ucla.net (169.232.4.52)  0.253 ms  0.255 ms  0.241 ms
+ 4  cr01f2.csb1--bd11f1.anderson.ucla.net (169.232.4.5)  0.750 ms  2.101 ms  2.085 ms
+ 5  lax-hpr2--ucla-10ge.cenic.net (137.164.27.5)  0.626 ms  0.661 ms  0.650 ms
+ 6  137.164.26.201 (137.164.26.201)  2.381 ms  2.558 ms  2.546 ms
+ 7  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  39.780 ms  39.804 ms  33.442 ms
+ 8  et-10-0-0.105.rtr.atla.net.internet2.edu (198.71.45.12)  57.219 ms  57.350 ms  57.505 ms
+ 9  et-9-0-0.104.rtr.wash.net.internet2.edu (198.71.45.7)  70.215 ms  70.210 ms  70.421 ms
+10  internet2.mx1.lon.uk.geant.net (62.40.124.44)  144.961 ms  144.991 ms  144.978 ms
+11  heanet.mx1.lon.uk.geant.net (62.40.125.126)  165.492 ms  171.505 ms  166.977 ms
+12  gi0-1-20-cpe2-ait.hea.net (193.1.244.122)  165.406 ms  165.353 ms  166.179 ms
+13  193.1.13.12 (193.1.13.12)  163.582 ms  156.734 ms  156.753 ms

@@ -1,0 +1,619 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 03:52:08 UTC 2016
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  4.387 ms  6.590 ms  5.615 ms
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  3.509 ms  8.411 ms  8.453 ms
+ 3  et-10-0-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.148)  15.982 ms  10.283 ms  11.057 ms
+ 4  et-5-0-0.124.rtr.atla.net.internet2.edu (64.57.28.13)  25.598 ms  22.214 ms  22.135 ms
+ 5  et-10-2-0.105.rtr.hous.net.internet2.edu (198.71.45.13)  45.740 ms  46.521 ms  45.765 ms
+ 6  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  78.526 ms  78.158 ms  78.125 ms
+ 7  210.25.189.133 (210.25.189.133)  80.532 ms  80.196 ms  84.448 ms
+ 8  210.25.189.49 (210.25.189.49)  226.533 ms  227.790 ms  225.092 ms
+ 9  210.25.189.17 (210.25.189.17)  227.083 ms  226.430 ms  226.846 ms
+10  210.25.189.68 (210.25.189.68)  324.306 ms * *
+11  219.243.208.60 (219.243.208.60)  225.575 ms  227.553 ms  225.173 ms
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl1.6test.edu.cn (219.243.208.60), 30 hops max, 60 byte packets

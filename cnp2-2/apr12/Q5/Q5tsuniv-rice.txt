@@ -1,0 +1,5046 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 05:14:23 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.171 ms  0.157 ms  0.155 ms
+ 2  172.26.192.110 (172.26.192.110)  0.516 ms  0.542 ms  0.612 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.573 ms  9.630 ms  9.640 ms
+ 6  dnat136.nettn.org (70.150.247.136)  9.877 ms  10.547 ms  10.573 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.123 ms  11.087 ms  11.009 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.985 ms  17.291 ms  17.321 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.305 ms  17.232 ms  15.960 ms
+10  12.122.117.121 (12.122.117.121)  18.098 ms  17.617 ms  17.269 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  82.947 ms  80.778 ms  80.733 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  53.057 ms  52.954 ms  53.022 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.211 ms  0.194 ms  0.187 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  52.985 ms  53.314 ms  53.035 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  50.734 ms  50.498 ms  52.014 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  19.303 ms  18.927 ms  20.111 ms
+10  12.122.117.121 (12.122.117.121)  19.415 ms  19.184 ms  17.987 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.655 ms  9.715 ms  9.714 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.972 ms  10.614 ms  10.594 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  18.214 ms  17.899 ms  17.893 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  117.214 ms  89.284 ms  62.288 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.311 ms  76.944 ms  76.994 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  15.903 ms  15.947 ms  16.011 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.915 ms  12.439 ms  12.470 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 20:21:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.279 ms  78.915 ms  75.849 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 22:22:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.785 ms  11.414 ms  11.473 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  122.614 ms  119.685 ms  119.980 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.590 ms  9.614 ms  9.687 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.014 ms  10.603 ms  10.635 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  31.711 ms  31.737 ms  31.777 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  64.514 ms  131.901 ms  131.449 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.546 ms  0.600 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.611 ms  9.673 ms  9.671 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  20.510 ms  20.114 ms  18.424 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.750 ms  11.329 ms  11.315 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.315 ms  22.093 ms  21.965 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.764 ms  10.314 ms  10.806 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.214 ms  16.276 ms  16.305 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.290 ms  19.879 ms  19.914 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.075 ms  10.760 ms  10.815 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  15.401 ms  18.964 ms  19.011 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.802 ms  10.806 ms  10.814 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.860 ms  15.829 ms  15.814 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.745 ms *  16.115 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.868 ms  10.132 ms  10.414 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  19.049 ms  18.584 ms  18.615 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.811 ms  10.345 ms  10.626 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.797 ms  19.311 ms  19.317 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  100.411 ms  100.274 ms  100.427 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.817 ms  11.611 ms  11.660 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  18.794 ms  18.014 ms  16.913 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  52.314 ms  52.140 ms  52.258 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  27.911 ms  29.433 ms  67.640 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.711 ms  17.387 ms  17.081 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.187 ms  44.614 ms  44.616 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  67.133 ms  67.111 ms  66.195 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.429 ms  19.411 ms  19.449 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  2 18:43:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.017 ms  11.016 ms  11.014 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  2 20:44:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.091 ms  16.015 ms  18.201 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 00:46:01 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  130.414 ms  130.319 ms  130.387 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 01:46:27 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.651 ms  9.713 ms  9.711 ms
+ 7  dnat136.nettn.org (70.150.247.136)  89.407 ms  89.411 ms  89.388 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 02:46:51 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.523 ms  0.563 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 03:47:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.333 ms  18.315 ms  17.428 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 04:47:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 05:48:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 06:48:47 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  14.915 ms  14.584 ms  14.569 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 07:49:12 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  19.423 ms  19.415 ms  18.563 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1262.695 ms  1257.869 ms  1249.251 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 08:49:37 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.914 ms  10.603 ms  10.595 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  229.709 ms  222.185 ms  214.370 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 09:50:03 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 10:50:33 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 11:50:59 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.653 ms  9.714 ms  9.712 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 12:51:28 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 13:51:53 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 14:52:18 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.561 ms  9.615 ms  9.645 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 15:52:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 16:53:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.007 ms  28.911 ms  28.985 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 17:53:38 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.994 ms  10.075 ms  10.115 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 18:54:02 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.493 ms  0.511 ms  0.547 ms
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  15.350 ms  18.411 ms  18.494 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 19:54:27 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.535 ms  0.576 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 20:54:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.151 ms  16.450 ms  16.411 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 21:55:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  12.016 ms  11.663 ms  11.611 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.486 ms  15.911 ms *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 22:55:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.662 ms  9.716 ms  9.714 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.318 ms  15.884 ms  15.914 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 23:56:18 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.171 ms  0.214 ms  0.178 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 00:56:47 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.700 ms  17.711 ms  18.718 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 01:57:19 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.914 ms  10.116 ms  10.142 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.215 ms  10.800 ms  10.773 ms
+10  12.122.117.121 (12.122.117.121)  18.114 ms  17.064 ms  17.030 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 02:57:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.614 ms  9.622 ms  9.635 ms
+ 6  dnat136.nettn.org (70.150.247.136)  10.451 ms  10.036 ms  10.211 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 03:58:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.211 ms  0.199 ms  0.191 ms
+ 2  172.26.192.110 (172.26.192.110)  0.608 ms  0.614 ms  0.708 ms
+ 3  * * *
+ 4  * * *
+10  * 12.122.117.121 (12.122.117.121)  15.715 ms  15.748 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 04:58:45 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 05:59:16 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 06:59:41 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 08:00:12 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 09:00:37 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.533 ms  17.305 ms  16.911 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 10:01:07 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.172 ms  0.159 ms  0.215 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.615 ms  28.514 ms  28.580 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 11:01:31 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.111 ms  15.806 ms  17.859 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.411 ms  51.419 ms  51.412 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 12:01:56 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 13:02:26 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  21.233 ms  17.914 ms  17.942 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.412 ms  28.550 ms  28.411 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  52.689 ms  51.414 ms  60.615 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 14:02:51 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 15:03:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 16:03:47 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 17:04:13 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  35.194 ms  34.286 ms  34.315 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 18:04:38 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.227 ms  11.415 ms  11.447 ms
+10  12.122.117.121 (12.122.117.121)  17.154 ms  15.911 ms  15.824 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  166.511 ms  166.415 ms  166.476 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 19:05:08 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.055 ms  10.114 ms  10.129 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.314 ms  28.546 ms  28.182 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 20:05:33 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 21:05:58 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.926 ms  10.115 ms  10.114 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 22:06:26 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 23:06:50 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr  5 00:07:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.118 ms  16.815 ms  16.856 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  51.577 ms  51.433 ms  52.214 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.000 ms  29.015 ms  29.013 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.654 ms  9.711 ms  9.708 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  336.000 ms  335.995 ms  329.810 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  30.051 ms  30.011 ms  29.911 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.858 ms  9.981 ms  10.014 ms
+ 7  dnat136.nettn.org (70.150.247.136)  10.500 ms  10.262 ms  10.311 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.591 ms  16.521 ms  15.911 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  52.520 ms  44.040 ms  36.065 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.414 ms  28.439 ms  28.430 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.215 ms  0.202 ms  0.189 ms
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.211 ms  16.901 ms  16.932 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  52.715 ms  52.474 ms  52.698 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  24.978 ms  22.251 ms  15.689 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.621 ms  10.385 ms  10.415 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  50.878 ms  50.781 ms  50.811 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.651 ms  9.711 ms  9.709 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.862 ms  10.280 ms  10.315 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.111 ms  11.434 ms  11.473 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  19.167 ms  18.611 ms  18.567 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.080 ms  51.011 ms  50.952 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.864 ms  10.012 ms  10.011 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.615 ms  10.382 ms  10.421 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.615 ms  17.099 ms  17.069 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.539 ms  0.560 ms  0.615 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  50.954 ms  50.463 ms  51.014 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  19.014 ms  18.484 ms  18.292 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.614 ms  0.614 ms  0.610 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.614 ms  9.675 ms  9.673 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.847 ms  10.015 ms  10.070 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.570 ms  10.314 ms  10.348 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  22.027 ms  15.540 ms  56.100 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.258 ms  28.314 ms  28.288 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.111 ms  15.567 ms  15.526 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  580.176 ms  572.333 ms  685.108 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.593 ms  16.615 ms  16.431 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  48.261 ms  43.652 ms  102.103 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.334 ms  28.642 ms  28.714 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  51.599 ms  51.311 ms  51.283 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  * cr2.attga.ip.att.net (12.122.140.170)  18.011 ms  17.986 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1645.735 ms  1637.187 ms  1629.421 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.800 ms  10.311 ms  10.338 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.515 ms  10.304 ms  10.325 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  123.651 ms  123.611 ms  123.672 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.172 ms  18.814 ms  18.830 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.515 ms  50.809 ms  50.717 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.425 ms  29.382 ms  29.415 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.159 ms  29.094 ms  29.115 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Apr  7 00:28:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.558 ms  28.714 ms  28.626 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  15.312 ms  19.487 ms  19.215 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.811 ms  10.062 ms  10.075 ms
+10  12.122.117.121 (12.122.117.121)  18.814 ms  18.847 ms  18.849 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Apr  7 07:31:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.541 ms  0.578 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.549 ms  9.611 ms  9.646 ms
+ 6  dnat136.nettn.org (70.150.247.136)  9.815 ms  9.975 ms *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  18.787 ms  15.789 ms  16.130 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.560 ms  9.571 ms  9.614 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.570 ms  34.451 ms  25.033 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.014 ms  28.192 ms  28.300 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  18.900 ms  16.415 ms  16.530 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1336.802 ms  1334.471 ms  1346.787 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.111 ms  51.999 ms  52.073 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.099 ms  19.515 ms  19.532 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  393.715 ms  139.952 ms  75.105 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Apr  7 21:37:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  58.337 ms  58.310 ms  58.315 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.814 ms  10.080 ms  10.096 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  312.804 ms  304.106 ms  301.203 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.511 ms  19.632 ms  19.634 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  109.143 ms  109.083 ms  98.800 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.211 ms  51.164 ms  52.454 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.535 ms  0.577 ms
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.714 ms  11.019 ms  11.167 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.103 ms  16.114 ms  18.286 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.543 ms  0.582 ms
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  3419.112 ms  3414.414 ms  3409.076 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.571 ms  9.614 ms  9.662 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  18.215 ms * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.490 ms  0.515 ms  0.550 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.918 ms  11.176 ms  11.215 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  60.654 ms  73.423 ms  134.214 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  19.314 ms  19.288 ms  17.363 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.908 ms  10.714 ms  10.690 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  27.953 ms  213.514 ms  214.780 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.487 ms  0.511 ms  0.551 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Fri Apr  8 22:48:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  24.225 ms  19.860 ms  19.811 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.482 ms  0.511 ms  0.548 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.547 ms  0.576 ms  0.615 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.511 ms  218.294 ms  218.250 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.532 ms  9.593 ms  9.615 ms
+ 6  dnat136.nettn.org (70.150.247.136)  11.011 ms  10.734 ms  10.721 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.841 ms  17.552 ms  17.515 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  4829.404 ms  4823.619 ms  4816.079 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  11.329 ms  10.999 ms  11.015 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.367 ms  11.114 ms  11.143 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  343.133 ms  563.950 ms  562.496 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  116.739 ms  116.815 ms  116.830 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.913 ms  10.385 ms  10.411 ms
+10  12.122.117.121 (12.122.117.121)  17.027 ms  16.714 ms  15.098 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  56.911 ms  109.248 ms  109.124 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  15.736 ms  20.695 ms  20.714 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  37.349 ms  30.922 ms  23.448 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.542 ms  0.578 ms
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.170 ms  16.998 ms  17.014 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.053 ms  17.027 ms  19.011 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  317.262 ms  310.924 ms  302.135 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  95.746 ms  117.411 ms  117.512 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  27.981 ms  73.962 ms  71.014 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.484 ms  0.514 ms  0.547 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.532 ms  9.583 ms  9.614 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  16.296 ms  16.559 ms  16.797 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 12:54:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.511 ms  9.561 ms  9.605 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.107 ms  137.066 ms  137.111 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.105 ms  18.125 ms  16.211 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.814 ms  9.977 ms  10.012 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.064 ms  87.115 ms  87.075 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  * cr2.attga.ip.att.net (12.122.140.170)  19.713 ms  19.614 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.564 ms  9.614 ms  9.659 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.534 ms  0.574 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 21:58:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.914 ms  16.873 ms  16.897 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 23:59:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.543 ms  0.582 ms
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.920 ms  11.811 ms  11.944 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.213 ms  99.204 ms  95.314 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.215 ms  16.251 ms  16.254 ms
+10  12.122.117.121 (12.122.117.121)  17.011 ms  17.004 ms  16.985 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.487 ms  0.511 ms  0.552 ms
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.815 ms  9.990 ms  10.002 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.622 ms  10.415 ms  10.437 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.835 ms  176.484 ms  176.411 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  193.311 ms  193.469 ms  193.467 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.347 ms  10.198 ms  10.215 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  73.014 ms  198.850 ms  198.873 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.989 ms  29.108 ms  22.203 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  248.714 ms  248.738 ms  248.725 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  29.338 ms  23.490 ms  16.676 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr 10 09:03:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.581 ms  15.315 ms  63.755 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  19.404 ms  19.414 ms  16.847 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.011 ms  53.597 ms  53.644 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.319 ms  10.256 ms  10.211 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  18.111 ms *  17.341 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1288.566 ms  1282.013 ms  1275.419 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  98.062 ms  98.097 ms  72.111 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.976 ms  17.109 ms  17.111 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  4359.978 ms  4354.933 ms  4541.158 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.272 ms  29.214 ms  29.246 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  84.930 ms  86.011 ms  173.342 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.539 ms  9.582 ms  9.614 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  135.233 ms  133.319 ms  133.311 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  15.863 ms  17.400 ms  17.415 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr 10 18:07:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.614 ms  15.988 ms  16.007 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.015 ms  19.506 ms  19.457 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.520 ms  9.589 ms  9.611 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  117.251 ms  117.311 ms  117.273 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.538 ms  0.579 ms
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  49.115 ms  48.822 ms  48.794 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.919 ms  0.915 ms  0.920 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  105.641 ms  105.315 ms  105.296 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 00:09:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 01:10:17 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  21.282 ms  21.311 ms  91.677 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 02:10:44 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  244.411 ms  244.441 ms  308.847 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 03:11:10 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 04:11:40 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.971 ms  17.444 ms  17.511 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 05:12:06 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.025 ms  16.005 ms  16.014 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  123.214 ms  136.033 ms  124.905 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 06:12:32 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  473.411 ms  465.608 ms  458.820 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 07:12:58 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.544 ms  0.586 ms
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.313 ms  18.311 ms  18.303 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 08:13:24 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.463 ms  10.311 ms  10.332 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.770 ms  15.343 ms  15.452 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  165.215 ms  165.239 ms  165.203 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 09:13:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.514 ms  9.560 ms  9.592 ms
+ 7  dnat136.nettn.org (70.150.247.136)  10.314 ms  10.321 ms  10.407 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  25.125 ms  17.694 ms  15.771 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 10:14:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.538 ms  0.577 ms
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.814 ms  10.669 ms *
+10  12.122.117.121 (12.122.117.121)  16.014 ms  16.025 ms  16.024 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 11:14:45 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 12:15:10 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 13:15:40 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.292 ms  11.281 ms  11.315 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 14:16:06 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.543 ms  0.589 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.569 ms  9.615 ms  9.612 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 15:16:33 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  187.413 ms  185.460 ms  185.415 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 16:16:59 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.290 ms  18.315 ms  18.321 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 17:17:24 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.804 ms  10.095 ms  10.115 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 18:17:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 19:18:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.933 ms  10.690 ms  10.611 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 20:18:46 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 21:19:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.566 ms  0.580 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  80.011 ms  73.298 ms  136.214 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 22:19:36 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 23:20:01 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.490 ms  0.514 ms  0.552 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  104.578 ms  96.715 ms  102.715 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.314 ms  10.348 ms  10.346 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 04:22:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  19.566 ms  19.559 ms  19.514 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.577 ms  9.615 ms  9.641 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 06:23:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.573 ms  9.615 ms  9.648 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.501 ms  10.391 ms  10.415 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  66.194 ms  58.279 ms  51.279 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.011 ms  103.585 ms  103.606 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.414 ms  10.235 ms  10.236 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.543 ms  0.580 ms
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.511 ms  16.497 ms  18.408 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  34.870 ms  29.063 ms  20.253 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  196.184 ms  196.515 ms  193.698 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.539 ms  9.580 ms  9.614 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.775 ms  10.050 ms  10.111 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.539 ms  0.581 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.815 ms  10.641 ms  10.668 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  154.414 ms  61.339 ms  227.387 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  113.394 ms  113.417 ms  113.411 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.905 ms  10.668 ms  10.715 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.565 ms  18.839 ms  18.714 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.611 ms  9.629 ms  9.630 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.579 ms  17.714 ms *
+11  * * *
+13  RICE-UNIVER.ear3.Dallas1.Level3.net (4.15.44.82)  106.591 ms  106.614 ms  127.851 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  283.302 ms  283.214 ms  283.255 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  20.147 ms *  17.811 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.585 ms  9.614 ms  9.671 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.399 ms  17.311 ms  17.296 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 05:14:23 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.171 ms  0.157 ms  0.155 ms
+ 2  172.26.192.110 (172.26.192.110)  0.516 ms  0.542 ms  0.612 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.573 ms  9.630 ms  9.640 ms
+ 6  dnat136.nettn.org (70.150.247.136)  9.877 ms  10.547 ms  10.573 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.123 ms  11.087 ms  11.009 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.985 ms  17.291 ms  17.321 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.305 ms  17.232 ms  15.960 ms
+10  12.122.117.121 (12.122.117.121)  18.098 ms  17.617 ms  17.269 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  82.947 ms  80.778 ms  80.733 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  53.057 ms  52.954 ms  53.022 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.211 ms  0.194 ms  0.187 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  52.985 ms  53.314 ms  53.035 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  50.734 ms  50.498 ms  52.014 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  19.303 ms  18.927 ms  20.111 ms
+10  12.122.117.121 (12.122.117.121)  19.415 ms  19.184 ms  17.987 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.655 ms  9.715 ms  9.714 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.972 ms  10.614 ms  10.594 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  18.214 ms  17.899 ms  17.893 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  117.214 ms  89.284 ms  62.288 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.311 ms  76.944 ms  76.994 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  15.903 ms  15.947 ms  16.011 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.915 ms  12.439 ms  12.470 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 20:21:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.279 ms  78.915 ms  75.849 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 22:22:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.785 ms  11.414 ms  11.473 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  122.614 ms  119.685 ms  119.980 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.590 ms  9.614 ms  9.687 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.014 ms  10.603 ms  10.635 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  31.711 ms  31.737 ms  31.777 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  64.514 ms  131.901 ms  131.449 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.546 ms  0.600 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.611 ms  9.673 ms  9.671 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  20.510 ms  20.114 ms  18.424 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.750 ms  11.329 ms  11.315 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.315 ms  22.093 ms  21.965 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.764 ms  10.314 ms  10.806 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.214 ms  16.276 ms  16.305 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.290 ms  19.879 ms  19.914 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.075 ms  10.760 ms  10.815 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  15.401 ms  18.964 ms  19.011 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.802 ms  10.806 ms  10.814 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.860 ms  15.829 ms  15.814 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.745 ms *  16.115 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.868 ms  10.132 ms  10.414 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  19.049 ms  18.584 ms  18.615 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.811 ms  10.345 ms  10.626 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.797 ms  19.311 ms  19.317 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  100.411 ms  100.274 ms  100.427 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.817 ms  11.611 ms  11.660 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  18.794 ms  18.014 ms  16.913 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  52.314 ms  52.140 ms  52.258 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  27.911 ms  29.433 ms  67.640 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.711 ms  17.387 ms  17.081 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.187 ms  44.614 ms  44.616 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  67.133 ms  67.111 ms  66.195 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.429 ms  19.411 ms  19.449 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  2 18:43:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.017 ms  11.016 ms  11.014 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  2 20:44:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.091 ms  16.015 ms  18.201 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 00:46:01 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  130.414 ms  130.319 ms  130.387 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 01:46:27 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.651 ms  9.713 ms  9.711 ms
+ 7  dnat136.nettn.org (70.150.247.136)  89.407 ms  89.411 ms  89.388 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 02:46:51 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.523 ms  0.563 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 03:47:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.333 ms  18.315 ms  17.428 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 04:47:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 05:48:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 06:48:47 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  14.915 ms  14.584 ms  14.569 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 07:49:12 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  19.423 ms  19.415 ms  18.563 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1262.695 ms  1257.869 ms  1249.251 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 08:49:37 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.914 ms  10.603 ms  10.595 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  229.709 ms  222.185 ms  214.370 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 09:50:03 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 10:50:33 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 11:50:59 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.653 ms  9.714 ms  9.712 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 12:51:28 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 13:51:53 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 14:52:18 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.561 ms  9.615 ms  9.645 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 15:52:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 16:53:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.007 ms  28.911 ms  28.985 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 17:53:38 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.994 ms  10.075 ms  10.115 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 18:54:02 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.493 ms  0.511 ms  0.547 ms
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  15.350 ms  18.411 ms  18.494 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 19:54:27 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.535 ms  0.576 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 20:54:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.151 ms  16.450 ms  16.411 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 21:55:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  12.016 ms  11.663 ms  11.611 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.486 ms  15.911 ms *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 22:55:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.662 ms  9.716 ms  9.714 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.318 ms  15.884 ms  15.914 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 23:56:18 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.171 ms  0.214 ms  0.178 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 00:56:47 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.700 ms  17.711 ms  18.718 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 01:57:19 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.914 ms  10.116 ms  10.142 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.215 ms  10.800 ms  10.773 ms
+10  12.122.117.121 (12.122.117.121)  18.114 ms  17.064 ms  17.030 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 02:57:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.614 ms  9.622 ms  9.635 ms
+ 6  dnat136.nettn.org (70.150.247.136)  10.451 ms  10.036 ms  10.211 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 03:58:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.211 ms  0.199 ms  0.191 ms
+ 2  172.26.192.110 (172.26.192.110)  0.608 ms  0.614 ms  0.708 ms
+ 3  * * *
+ 4  * * *
+10  * 12.122.117.121 (12.122.117.121)  15.715 ms  15.748 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 04:58:45 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 05:59:16 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 06:59:41 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 08:00:12 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 09:00:37 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.533 ms  17.305 ms  16.911 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 10:01:07 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.172 ms  0.159 ms  0.215 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.615 ms  28.514 ms  28.580 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 11:01:31 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.111 ms  15.806 ms  17.859 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.411 ms  51.419 ms  51.412 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 12:01:56 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 13:02:26 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  21.233 ms  17.914 ms  17.942 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.412 ms  28.550 ms  28.411 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  52.689 ms  51.414 ms  60.615 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 14:02:51 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 15:03:22 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 16:03:47 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 17:04:13 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  35.194 ms  34.286 ms  34.315 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 18:04:38 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.227 ms  11.415 ms  11.447 ms
+10  12.122.117.121 (12.122.117.121)  17.154 ms  15.911 ms  15.824 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  166.511 ms  166.415 ms  166.476 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 19:05:08 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  10.055 ms  10.114 ms  10.129 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.314 ms  28.546 ms  28.182 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 20:05:33 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 21:05:58 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.926 ms  10.115 ms  10.114 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 22:06:26 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 23:06:50 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr  5 00:07:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.118 ms  16.815 ms  16.856 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  51.577 ms  51.433 ms  52.214 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.000 ms  29.015 ms  29.013 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.654 ms  9.711 ms  9.708 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  336.000 ms  335.995 ms  329.810 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  30.051 ms  30.011 ms  29.911 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.858 ms  9.981 ms  10.014 ms
+ 7  dnat136.nettn.org (70.150.247.136)  10.500 ms  10.262 ms  10.311 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.591 ms  16.521 ms  15.911 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  52.520 ms  44.040 ms  36.065 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.414 ms  28.439 ms  28.430 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.215 ms  0.202 ms  0.189 ms
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.211 ms  16.901 ms  16.932 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  52.715 ms  52.474 ms  52.698 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  24.978 ms  22.251 ms  15.689 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.621 ms  10.385 ms  10.415 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  50.878 ms  50.781 ms  50.811 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.651 ms  9.711 ms  9.709 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.862 ms  10.280 ms  10.315 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.111 ms  11.434 ms  11.473 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  19.167 ms  18.611 ms  18.567 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.080 ms  51.011 ms  50.952 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.864 ms  10.012 ms  10.011 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.615 ms  10.382 ms  10.421 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  17.615 ms  17.099 ms  17.069 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.539 ms  0.560 ms  0.615 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  50.954 ms  50.463 ms  51.014 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  19.014 ms  18.484 ms  18.292 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.614 ms  0.614 ms  0.610 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.614 ms  9.675 ms  9.673 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.847 ms  10.015 ms  10.070 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.570 ms  10.314 ms  10.348 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  22.027 ms  15.540 ms  56.100 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.258 ms  28.314 ms  28.288 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.111 ms  15.567 ms  15.526 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  580.176 ms  572.333 ms  685.108 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.593 ms  16.615 ms  16.431 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  48.261 ms  43.652 ms  102.103 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.334 ms  28.642 ms  28.714 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  51.599 ms  51.311 ms  51.283 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  * cr2.attga.ip.att.net (12.122.140.170)  18.011 ms  17.986 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1645.735 ms  1637.187 ms  1629.421 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.800 ms  10.311 ms  10.338 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.515 ms  10.304 ms  10.325 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  123.651 ms  123.611 ms  123.672 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.172 ms  18.814 ms  18.830 ms
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.515 ms  50.809 ms  50.717 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.425 ms  29.382 ms  29.415 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.159 ms  29.094 ms  29.115 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Apr  7 00:28:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.558 ms  28.714 ms  28.626 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  15.312 ms  19.487 ms  19.215 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.811 ms  10.062 ms  10.075 ms
+10  12.122.117.121 (12.122.117.121)  18.814 ms  18.847 ms  18.849 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Apr  7 07:31:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.541 ms  0.578 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.549 ms  9.611 ms  9.646 ms
+ 6  dnat136.nettn.org (70.150.247.136)  9.815 ms  9.975 ms *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  18.787 ms  15.789 ms  16.130 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.560 ms  9.571 ms  9.614 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.570 ms  34.451 ms  25.033 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.014 ms  28.192 ms  28.300 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  18.900 ms  16.415 ms  16.530 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1336.802 ms  1334.471 ms  1346.787 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.111 ms  51.999 ms  52.073 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.099 ms  19.515 ms  19.532 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  393.715 ms  139.952 ms  75.105 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Thu Apr  7 21:37:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  58.337 ms  58.310 ms  58.315 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.814 ms  10.080 ms  10.096 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  312.804 ms  304.106 ms  301.203 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.511 ms  19.632 ms  19.634 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  109.143 ms  109.083 ms  98.800 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  51.211 ms  51.164 ms  52.454 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.535 ms  0.577 ms
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.714 ms  11.019 ms  11.167 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.103 ms  16.114 ms  18.286 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.543 ms  0.582 ms
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  3419.112 ms  3414.414 ms  3409.076 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.571 ms  9.614 ms  9.662 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  18.215 ms * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.490 ms  0.515 ms  0.550 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.918 ms  11.176 ms  11.215 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  60.654 ms  73.423 ms  134.214 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  19.314 ms  19.288 ms  17.363 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.908 ms  10.714 ms  10.690 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  27.953 ms  213.514 ms  214.780 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.487 ms  0.511 ms  0.551 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Fri Apr  8 22:48:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  24.225 ms  19.860 ms  19.811 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.482 ms  0.511 ms  0.548 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.547 ms  0.576 ms  0.615 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.511 ms  218.294 ms  218.250 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.532 ms  9.593 ms  9.615 ms
+ 6  dnat136.nettn.org (70.150.247.136)  11.011 ms  10.734 ms  10.721 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.841 ms  17.552 ms  17.515 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  4829.404 ms  4823.619 ms  4816.079 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  11.329 ms  10.999 ms  11.015 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.367 ms  11.114 ms  11.143 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  343.133 ms  563.950 ms  562.496 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  116.739 ms  116.815 ms  116.830 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.913 ms  10.385 ms  10.411 ms
+10  12.122.117.121 (12.122.117.121)  17.027 ms  16.714 ms  15.098 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  56.911 ms  109.248 ms  109.124 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  15.736 ms  20.695 ms  20.714 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  37.349 ms  30.922 ms  23.448 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.542 ms  0.578 ms
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.170 ms  16.998 ms  17.014 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.053 ms  17.027 ms  19.011 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  317.262 ms  310.924 ms  302.135 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  95.746 ms  117.411 ms  117.512 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  27.981 ms  73.962 ms  71.014 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.484 ms  0.514 ms  0.547 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.532 ms  9.583 ms  9.614 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  16.296 ms  16.559 ms  16.797 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 12:54:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.511 ms  9.561 ms  9.605 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.107 ms  137.066 ms  137.111 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.105 ms  18.125 ms  16.211 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.814 ms  9.977 ms  10.012 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.064 ms  87.115 ms  87.075 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  * cr2.attga.ip.att.net (12.122.140.170)  19.713 ms  19.614 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.564 ms  9.614 ms  9.659 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.534 ms  0.574 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 21:58:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.914 ms  16.873 ms  16.897 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 23:59:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.543 ms  0.582 ms
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.920 ms  11.811 ms  11.944 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.213 ms  99.204 ms  95.314 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.215 ms  16.251 ms  16.254 ms
+10  12.122.117.121 (12.122.117.121)  17.011 ms  17.004 ms  16.985 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.487 ms  0.511 ms  0.552 ms
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.815 ms  9.990 ms  10.002 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.622 ms  10.415 ms  10.437 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.835 ms  176.484 ms  176.411 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  193.311 ms  193.469 ms  193.467 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.347 ms  10.198 ms  10.215 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  73.014 ms  198.850 ms  198.873 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.989 ms  29.108 ms  22.203 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  248.714 ms  248.738 ms  248.725 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  29.338 ms  23.490 ms  16.676 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr 10 09:03:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.581 ms  15.315 ms  63.755 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  19.404 ms  19.414 ms  16.847 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.011 ms  53.597 ms  53.644 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.319 ms  10.256 ms  10.211 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  18.111 ms *  17.341 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  1288.566 ms  1282.013 ms  1275.419 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  98.062 ms  98.097 ms  72.111 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.976 ms  17.109 ms  17.111 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  4359.978 ms  4354.933 ms  4541.158 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  29.272 ms  29.214 ms  29.246 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  84.930 ms  86.011 ms  173.342 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.539 ms  9.582 ms  9.614 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  135.233 ms  133.319 ms  133.311 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  15.863 ms  17.400 ms  17.415 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr 10 18:07:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.614 ms  15.988 ms  16.007 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.015 ms  19.506 ms  19.457 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.520 ms  9.589 ms  9.611 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  117.251 ms  117.311 ms  117.273 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.538 ms  0.579 ms
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  49.115 ms  48.822 ms  48.794 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.919 ms  0.915 ms  0.920 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  105.641 ms  105.315 ms  105.296 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 00:09:52 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 01:10:17 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  21.282 ms  21.311 ms  91.677 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 02:10:44 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  244.411 ms  244.441 ms  308.847 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 03:11:10 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 04:11:40 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.971 ms  17.444 ms  17.511 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 05:12:06 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  16.025 ms  16.005 ms  16.014 ms
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  123.214 ms  136.033 ms  124.905 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 06:12:32 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  473.411 ms  465.608 ms  458.820 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 07:12:58 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.544 ms  0.586 ms
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.313 ms  18.311 ms  18.303 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 08:13:24 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.463 ms  10.311 ms  10.332 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  15.770 ms  15.343 ms  15.452 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  165.215 ms  165.239 ms  165.203 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 09:13:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.514 ms  9.560 ms  9.592 ms
+ 7  dnat136.nettn.org (70.150.247.136)  10.314 ms  10.321 ms  10.407 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  25.125 ms  17.694 ms  15.771 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 10:14:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.538 ms  0.577 ms
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.814 ms  10.669 ms *
+10  12.122.117.121 (12.122.117.121)  16.014 ms  16.025 ms  16.024 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 11:14:45 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 12:15:10 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 13:15:40 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  11.292 ms  11.281 ms  11.315 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 14:16:06 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.543 ms  0.589 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.569 ms  9.615 ms  9.612 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 15:16:33 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  187.413 ms  185.460 ms  185.415 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 16:16:59 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.290 ms  18.315 ms  18.321 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 17:17:24 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.804 ms  10.095 ms  10.115 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 18:17:49 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 19:18:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.933 ms  10.690 ms  10.611 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 20:18:46 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 21:19:11 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.514 ms  0.566 ms  0.580 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  80.011 ms  73.298 ms  136.214 ms
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 22:19:36 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 23:20:01 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.490 ms  0.514 ms  0.552 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  104.578 ms  96.715 ms  102.715 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.314 ms  10.348 ms  10.346 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 04:22:14 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+10  12.122.117.121 (12.122.117.121)  19.566 ms  19.559 ms  19.514 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.577 ms  9.615 ms  9.641 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 06:23:15 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.573 ms  9.615 ms  9.648 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.501 ms  10.391 ms  10.415 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  66.194 ms  58.279 ms  51.279 ms
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.011 ms  103.585 ms  103.606 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.414 ms  10.235 ms  10.236 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.515 ms  0.543 ms  0.580 ms
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  16.511 ms  16.497 ms  18.408 ms
+11  ae15.edge5.atlanta2.level3.net (4.68.62.225)  34.870 ms  29.063 ms  20.253 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  196.184 ms  196.515 ms  193.698 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.539 ms  9.580 ms  9.614 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.775 ms  10.050 ms  10.111 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 2  172.26.192.110 (172.26.192.110)  0.511 ms  0.539 ms  0.581 ms
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 7  dnat136.nettn.org (70.150.247.136)  10.815 ms  10.641 ms  10.668 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  154.414 ms  61.339 ms  227.387 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  113.394 ms  113.417 ms  113.411 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 6  dnat136.nettn.org (70.150.247.136)  9.905 ms  10.668 ms  10.715 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.565 ms  18.839 ms  18.714 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.611 ms  9.629 ms  9.630 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  16.579 ms  17.714 ms *
+11  * * *
+13  RICE-UNIVER.ear3.Dallas1.Level3.net (4.15.44.82)  106.591 ms  106.614 ms  127.851 ms
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  283.302 ms  283.214 ms  283.255 ms
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 8  cr2.attga.ip.att.net (12.122.140.170)  20.147 ms *  17.811 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.585 ms  9.614 ms  9.671 ms
+11  * * *
+14  * * *
+15  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 3  * * *
+ 4  * * *
+ 9  cr2.attga.ip.att.net (12.122.140.170)  18.399 ms  17.311 ms  17.296 ms
+11  * * *
+14  * * *
+15  * * *

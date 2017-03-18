@@ -1,0 +1,72 @@
+a)6test-pitt-----no outage
+pitt-6test------25 temp outages
+
+ucla-coffee----12 temp outages
+coffee-ucla------629 temp outages
+
+tsuniv-rice-----1516 temp outages
+rice-tsuniv------964 temp outages
+
+pitt-cert-------526 temp outages
+cert-pitt-----182 temp outages
+
+oks-indiana------290 temp outages
+indiana-oks-----1 temp outage
+
+
+
+found the number using "replace" function
+
+b)There was one case of long term outage
+
+6test-pitt
+outage-4/2/2014
+backon-4/3/2014
+#!/bin/bash
+
+while true; do
+echo "Beginning of new PING measurement" >> 6test-pitt-ping.txt
+date >> 6test-pitt-ping.txt
+ping -c 20 planetlab2.cs.pitt.edu >> 6test-pitt-ping.txt
+echo "Beginning of new TRACEROUTE measurement" >> 6test-pitt-trace.txt
+date >> 6test-pitt-trace.txt
+traceroute planetlab2.cs.pitt.edu >> 6test-pitt-trace.txt
+sleep 3600
+
+
+
+pitt-6test
+outage-4/2/2014 
+backon-4/3/2014
+#!/bin/bash
+
+while true; do
+echo "Beginning of new PING measurement" >> pitt-6test-ping.txt
+date >> pitt-6test-ping.txt
+ping -c 20 pl1.6test.edu.cn >> pitt-6test-ping.txt
+echo "Beginning of new TRACEROUTE measurement" >> pitt-6test-trace.txt
+date >> pitt-6test-trace.txt
+traceroute pl1.6test.edu.cn >> pitt-6test-trace.txt
+sleep 3600
+
+
+
+
+
+command used:
+
+ cat oks-indiana-trace.txt | gawk '/* * */  {print $0,n++}' >> Q2oks-indiana.txt
+ cat indiana-oks-trace.txt | gawk '/* * */  {print $0,n++}'  >> Q2indiana-oks.txt
+ cat 6test-pitt-trace.txt | gawk '/* * */  {print $0,n++}'  >> Q26test-pitt.txt
+ cat pitt-6test-trace.txt | gawk '/* * */ {print $0,n++}'  >> Q2pitt-6test.txt
+ cat cert-pitt-trace.txt | gawk '/* * */  {print $0,n++}' >> Q2cert-pitt.txt
+ cat pitt-cert-trace.txt | gawk '/* * */  {print $0,n++}'  >> Q2pitt-cert.txt
+ cat ucla-coffee-trace.txt | gawk '/* * */ {print $0,n++}'  >> Q2ucla-coffee.txt
+ cat coffee-ucla-trace.txt | gawk '/* * */  {print $0,n++}'  >> Q2coffee-ucla.txt
+ cat rice-tsuniv-trace.txt | gawk '/* * */  {print $0,n++}' >> Q2rice-tsuniv.txt
+ cat tsuniv-rice-trace.txt | gawk '/* * */  {print $0,n++}'>> Q2tsuniv-rice.txt
+
+
+
+
+

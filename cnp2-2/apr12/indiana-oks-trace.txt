@@ -1,0 +1,720 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 02:36:33 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.337 ms  0.317 ms  0.302 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.757 ms  0.751 ms  0.730 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.806 ms  2.798 ms  2.853 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.140 ms  3.131 ms  3.212 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.718 ms  7.681 ms  7.669 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.625 ms  18.841 ms  18.829 ms
+ 7  164.58.7.49 (164.58.7.49)  23.159 ms  23.144 ms  23.340 ms
+ 8  164.58.244.46 (164.58.244.46)  23.320 ms  23.216 ms  23.227 ms
+ 9  164.58.244.17 (164.58.244.17)  24.449 ms  24.479 ms  24.443 ms
+10  156.110.119.10 (156.110.119.10)  24.660 ms  24.730 ms  24.661 ms
+11  139.78.1.105 (139.78.1.105)  25.131 ms  25.021 ms  25.224 ms
+12  139.78.1.111 (139.78.1.111)  24.910 ms  24.906 ms  25.056 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.919 ms  24.951 ms  24.925 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 03:36:53 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.337 ms  0.314 ms  0.297 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.308 ms  0.319 ms  0.294 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.862 ms  2.883 ms  2.865 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.218 ms  3.207 ms  3.191 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.999 ms  7.984 ms  7.971 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.808 ms  18.956 ms  18.968 ms
+ 7  164.58.7.49 (164.58.7.49)  23.276 ms  23.265 ms  23.250 ms
+ 8  164.58.244.46 (164.58.244.46)  23.194 ms  23.691 ms  23.670 ms
+ 9  164.58.244.17 (164.58.244.17)  25.018 ms  25.049 ms  25.025 ms
+10  156.110.119.10 (156.110.119.10)  25.118 ms  24.680 ms  24.665 ms
+11  139.78.1.105 (139.78.1.105)  25.264 ms  25.095 ms  25.281 ms
+12  139.78.1.111 (139.78.1.111)  25.063 ms  25.218 ms  25.180 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.174 ms  25.153 ms  25.233 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 04:37:12 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.349 ms  0.319 ms  0.300 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.283 ms  0.372 ms  0.319 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.881 ms  2.870 ms  2.854 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.479 ms  3.507 ms  3.496 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.848 ms  7.868 ms  7.827 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.706 ms  18.608 ms  18.703 ms
+ 7  164.58.7.49 (164.58.7.49)  23.463 ms  23.637 ms  23.248 ms
+ 8  164.58.244.46 (164.58.244.46)  23.229 ms  23.209 ms  23.188 ms
+ 9  164.58.244.17 (164.58.244.17)  25.431 ms  24.822 ms  24.760 ms
+10  156.110.119.10 (156.110.119.10)  25.010 ms  24.523 ms  24.480 ms
+11  139.78.1.105 (139.78.1.105)  25.360 ms  25.187 ms  25.082 ms
+12  139.78.1.111 (139.78.1.111)  24.992 ms  25.019 ms  30.613 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.308 ms  25.297 ms  25.287 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 05:37:32 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.338 ms  0.311 ms  0.295 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.325 ms  0.354 ms  0.336 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.829 ms  2.869 ms  2.841 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.137 ms  3.133 ms  3.113 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.901 ms  7.896 ms  7.858 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.684 ms  18.748 ms  18.730 ms
+ 7  164.58.7.49 (164.58.7.49)  23.330 ms  23.613 ms  23.588 ms
+ 8  164.58.244.46 (164.58.244.46)  23.544 ms  23.341 ms  23.328 ms
+ 9  164.58.244.17 (164.58.244.17)  24.427 ms  24.669 ms  24.652 ms
+10  156.110.119.10 (156.110.119.10)  24.724 ms  24.734 ms  24.543 ms
+11  139.78.1.105 (139.78.1.105)  25.171 ms  25.688 ms  25.484 ms
+12  139.78.1.111 (139.78.1.111)  24.964 ms  25.022 ms  24.980 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.917 ms  25.246 ms  25.210 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 06:37:51 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.331 ms  0.313 ms  0.296 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.317 ms  0.355 ms  0.337 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.868 ms  2.891 ms  2.864 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.131 ms  3.120 ms  3.102 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  8.546 ms  8.573 ms  8.559 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.715 ms  18.787 ms  18.792 ms
+ 7  164.58.7.49 (164.58.7.49)  23.249 ms  23.373 ms  23.352 ms
+ 8  164.58.244.46 (164.58.244.46)  23.312 ms  23.373 ms  23.363 ms
+ 9  164.58.244.17 (164.58.244.17)  24.948 ms  24.946 ms  24.937 ms
+10  156.110.119.10 (156.110.119.10)  24.903 ms  24.816 ms  24.799 ms
+11  139.78.1.105 (139.78.1.105)  25.299 ms  25.139 ms  25.287 ms
+12  139.78.1.111 (139.78.1.111)  24.962 ms  24.908 ms  24.965 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.954 ms  25.033 ms  25.021 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 07:38:10 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.330 ms  0.310 ms  0.302 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.310 ms  0.303 ms  0.287 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.847 ms  2.844 ms  2.825 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.712 ms  3.707 ms  3.692 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.946 ms  7.962 ms  7.931 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.768 ms  18.728 ms  18.699 ms
+ 7  164.58.7.49 (164.58.7.49)  23.146 ms  23.008 ms  23.043 ms
+ 8  164.58.244.46 (164.58.244.46)  23.263 ms  23.036 ms  23.003 ms
+ 9  164.58.244.17 (164.58.244.17)  24.718 ms  24.644 ms  24.606 ms
+10  156.110.119.10 (156.110.119.10)  24.606 ms  24.699 ms  24.654 ms
+11  139.78.1.105 (139.78.1.105)  25.156 ms  25.468 ms  25.209 ms
+12  139.78.1.111 (139.78.1.111)  24.900 ms  25.012 ms  25.688 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.834 ms  24.929 ms  24.877 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 08:38:30 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.347 ms  0.325 ms  0.308 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.352 ms  0.340 ms  0.318 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.854 ms  2.848 ms  2.821 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.174 ms  3.159 ms  3.144 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.872 ms  8.158 ms  8.145 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.657 ms  18.789 ms  18.775 ms
+ 7  164.58.7.49 (164.58.7.49)  23.224 ms  23.163 ms  23.145 ms
+ 8  164.58.244.46 (164.58.244.46)  23.111 ms  23.330 ms  23.309 ms
+ 9  164.58.244.17 (164.58.244.17)  24.514 ms  24.764 ms  24.743 ms
+10  156.110.119.10 (156.110.119.10)  24.727 ms  24.587 ms  24.659 ms
+11  139.78.1.105 (139.78.1.105)  25.082 ms  25.549 ms  24.988 ms
+12  139.78.1.111 (139.78.1.111)  24.799 ms  24.919 ms  24.919 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.911 ms  24.899 ms  24.883 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 09:38:49 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.385 ms  0.405 ms  0.396 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.358 ms  0.347 ms  0.326 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.860 ms  2.875 ms  2.857 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.128 ms  3.098 ms  3.083 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.755 ms  7.747 ms  7.732 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.769 ms  18.706 ms  18.716 ms
+ 7  164.58.7.49 (164.58.7.49)  23.147 ms  23.113 ms  23.058 ms
+ 8  164.58.244.46 (164.58.244.46)  23.079 ms  22.993 ms  22.977 ms
+ 9  164.58.244.17 (164.58.244.17)  24.551 ms  24.389 ms  24.372 ms
+10  156.110.119.10 (156.110.119.10)  24.576 ms  24.725 ms  24.694 ms
+11  139.78.1.105 (139.78.1.105)  25.269 ms  25.230 ms  25.054 ms
+12  139.78.1.111 (139.78.1.111)  24.743 ms  24.814 ms  24.806 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.758 ms  24.742 ms  25.048 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 10:39:08 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.324 ms  0.306 ms  0.290 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.335 ms  0.324 ms  0.304 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.832 ms  2.822 ms  2.806 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.123 ms  3.109 ms  3.090 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.845 ms  7.832 ms  7.819 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.544 ms  18.758 ms  18.744 ms
+ 7  164.58.7.49 (164.58.7.49)  23.151 ms  22.974 ms  22.960 ms
+ 8  164.58.244.46 (164.58.244.46)  23.208 ms  23.218 ms  23.198 ms
+ 9  164.58.244.17 (164.58.244.17)  24.540 ms  24.748 ms  24.732 ms
+10  156.110.119.10 (156.110.119.10)  24.845 ms  24.709 ms  24.691 ms
+11  139.78.1.105 (139.78.1.105)  25.113 ms  25.339 ms  25.170 ms
+12  139.78.1.111 (139.78.1.111)  56.805 ms  24.882 ms  25.083 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.322 ms  25.318 ms  25.288 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 11:39:27 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.338 ms  0.318 ms  0.302 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.658 ms  0.647 ms  0.627 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.856 ms  2.870 ms  2.856 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.421 ms  3.411 ms  3.386 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.698 ms  7.713 ms  7.699 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.557 ms  18.661 ms  18.670 ms
+ 7  164.58.7.49 (164.58.7.49)  30.667 ms  29.881 ms  29.944 ms
+ 8  164.58.244.46 (164.58.244.46)  23.107 ms  23.110 ms  23.054 ms
+ 9  164.58.244.17 (164.58.244.17)  24.364 ms  24.522 ms  24.530 ms
+10  156.110.119.10 (156.110.119.10)  24.613 ms  24.632 ms  24.672 ms
+11  139.78.1.105 (139.78.1.105)  25.160 ms  25.059 ms  24.957 ms
+12  139.78.1.111 (139.78.1.111)  24.916 ms  25.044 ms  24.844 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.920 ms  25.142 ms  24.846 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 12:39:47 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.338 ms  0.317 ms  0.301 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.320 ms  0.308 ms  0.292 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  6.004 ms  6.019 ms  5.984 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.225 ms  3.219 ms  3.201 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.655 ms  7.644 ms  7.791 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.684 ms  18.790 ms  18.778 ms
+ 7  164.58.7.49 (164.58.7.49)  23.390 ms  23.161 ms  23.144 ms
+ 8  164.58.244.46 (164.58.244.46)  23.103 ms  23.307 ms  23.294 ms
+ 9  164.58.244.17 (164.58.244.17)  24.771 ms  24.481 ms  24.467 ms
+10  156.110.119.10 (156.110.119.10)  24.450 ms  24.547 ms  24.531 ms
+11  139.78.1.105 (139.78.1.105)  25.091 ms  25.032 ms  25.143 ms
+12  139.78.1.111 (139.78.1.111)  25.021 ms  24.902 ms  24.784 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.964 ms  24.953 ms  24.939 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 13:40:06 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.352 ms  0.331 ms  0.312 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.325 ms  0.369 ms  0.342 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.882 ms  2.901 ms  2.853 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.130 ms  3.118 ms  3.102 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.676 ms  7.692 ms  7.679 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.785 ms  18.693 ms  18.676 ms
+ 7  164.58.7.49 (164.58.7.49)  23.129 ms  23.227 ms  23.203 ms
+ 8  164.58.244.46 (164.58.244.46)  23.166 ms  23.445 ms  23.431 ms
+ 9  164.58.244.17 (164.58.244.17)  24.631 ms  24.587 ms  24.651 ms
+10  156.110.119.10 (156.110.119.10)  24.717 ms  24.536 ms  24.523 ms
+11  139.78.1.105 (139.78.1.105)  25.092 ms  25.148 ms  25.211 ms
+12  139.78.1.111 (139.78.1.111)  24.816 ms  24.874 ms  24.953 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.980 ms  24.948 ms  24.894 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 14:40:25 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.315 ms  0.299 ms  0.286 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.355 ms  0.345 ms  0.329 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.828 ms  2.877 ms  2.847 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.180 ms  3.092 ms  3.154 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.732 ms  7.750 ms  7.830 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.607 ms  18.724 ms  18.713 ms
+ 7  164.58.7.49 (164.58.7.49)  23.196 ms  23.255 ms  23.486 ms
+ 8  164.58.244.46 (164.58.244.46)  23.547 ms  23.451 ms  23.495 ms
+ 9  164.58.244.17 (164.58.244.17)  24.844 ms  24.840 ms  24.826 ms
+10  156.110.119.10 (156.110.119.10)  24.983 ms  24.908 ms  24.926 ms
+11  139.78.1.105 (139.78.1.105)  25.328 ms  24.999 ms  25.360 ms
+12  139.78.1.111 (139.78.1.111)  24.926 ms  24.896 ms  24.907 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.091 ms  25.059 ms  25.135 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 15:40:45 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.332 ms  0.314 ms  0.298 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.329 ms  0.319 ms  0.299 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.994 ms  2.987 ms  2.981 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.304 ms  3.290 ms  3.274 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.859 ms  7.976 ms  7.963 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.695 ms  18.988 ms  19.061 ms
+ 7  164.58.7.49 (164.58.7.49)  23.505 ms  23.273 ms  23.256 ms
+ 8  164.58.244.46 (164.58.244.46)  23.242 ms  23.291 ms  23.277 ms
+ 9  164.58.244.17 (164.58.244.17)  24.640 ms  24.607 ms  24.606 ms
+10  156.110.119.10 (156.110.119.10)  24.778 ms  24.773 ms  24.729 ms
+11  139.78.1.105 (139.78.1.105)  25.226 ms  25.393 ms  25.332 ms
+12  139.78.1.111 (139.78.1.111)  25.129 ms  24.925 ms  30.897 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.291 ms  25.077 ms  24.984 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 16:41:04 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.314 ms  0.293 ms  0.276 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.292 ms  0.280 ms  0.314 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.874 ms  2.863 ms  2.847 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.173 ms  3.161 ms  3.141 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.674 ms  7.794 ms  7.900 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  19.056 ms  19.343 ms  19.290 ms
+ 7  164.58.7.49 (164.58.7.49)  23.235 ms  23.207 ms  23.193 ms
+ 8  164.58.244.46 (164.58.244.46)  23.321 ms  23.309 ms  23.384 ms
+ 9  164.58.244.17 (164.58.244.17)  24.784 ms  24.615 ms  24.599 ms
+10  156.110.119.10 (156.110.119.10)  24.583 ms  24.724 ms  24.682 ms
+11  139.78.1.105 (139.78.1.105)  25.285 ms  25.082 ms  25.265 ms
+12  139.78.1.111 (139.78.1.111)  48.227 ms  32.773 ms  32.728 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.942 ms  25.117 ms  25.081 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 17:41:23 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.635 ms  0.663 ms  0.649 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  9.731 ms  9.779 ms  9.764 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  24.784 ms  24.799 ms  24.785 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  48.284 ms  48.302 ms  48.287 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  54.641 ms  54.662 ms  54.648 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  60.294 ms  60.788 ms  60.772 ms
+ 7  164.58.7.49 (164.58.7.49)  65.508 ms  65.567 ms  65.519 ms
+ 8  164.58.244.46 (164.58.244.46)  65.563 ms  66.923 ms  66.910 ms
+ 9  164.58.244.17 (164.58.244.17)  68.372 ms  67.573 ms  67.557 ms
+10  156.110.119.10 (156.110.119.10)  67.779 ms  68.531 ms  68.514 ms
+11  139.78.1.105 (139.78.1.105)  69.206 ms  69.514 ms  69.482 ms
+12  139.78.1.111 (139.78.1.111)  74.986 ms  68.427 ms  75.407 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  75.712 ms  75.690 ms  75.681 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 18:41:43 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.336 ms  0.317 ms  0.301 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.345 ms  0.331 ms  0.310 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.870 ms  2.861 ms  2.845 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.129 ms  3.265 ms  3.250 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.850 ms  7.864 ms  7.815 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  20.337 ms  20.244 ms  20.190 ms
+ 7  164.58.7.49 (164.58.7.49)  24.968 ms  24.602 ms  24.582 ms
+ 8  164.58.244.46 (164.58.244.46)  24.739 ms  24.868 ms  24.834 ms
+ 9  164.58.244.17 (164.58.244.17)  26.523 ms  26.711 ms  26.697 ms
+10  156.110.119.10 (156.110.119.10)  26.676 ms  26.281 ms  26.265 ms
+11  139.78.1.105 (139.78.1.105)  26.929 ms  25.907 ms  25.865 ms
+12  139.78.1.111 (139.78.1.111)  25.208 ms  25.439 ms  25.018 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.104 ms  25.066 ms  25.034 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 19:42:07 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.323 ms  0.304 ms  0.286 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.368 ms  0.356 ms  0.333 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  4.870 ms  4.857 ms  4.842 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.263 ms  3.282 ms  3.270 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.887 ms  7.877 ms  7.862 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.819 ms  18.803 ms  18.770 ms
+ 7  164.58.7.49 (164.58.7.49)  23.423 ms  23.164 ms  23.144 ms
+ 8  164.58.244.46 (164.58.244.46)  23.109 ms  23.514 ms  23.498 ms
+ 9  164.58.244.17 (164.58.244.17)  24.702 ms  24.618 ms  24.602 ms
+10  156.110.119.10 (156.110.119.10)  24.692 ms  24.785 ms  24.751 ms
+11  139.78.1.105 (139.78.1.105)  25.473 ms  25.756 ms  25.713 ms
+12  139.78.1.111 (139.78.1.111)  25.297 ms  24.940 ms  24.881 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.958 ms  24.927 ms  24.922 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 20:42:27 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  2.483 ms  2.462 ms  2.449 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  7.663 ms  7.652 ms  7.623 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.876 ms  2.866 ms  2.850 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.185 ms  3.170 ms  3.155 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.859 ms  7.848 ms  7.906 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.678 ms  18.720 ms  18.728 ms
+ 7  164.58.7.49 (164.58.7.49)  23.203 ms  23.169 ms  23.140 ms
+ 8  164.58.244.46 (164.58.244.46)  23.330 ms  23.300 ms  23.294 ms
+ 9  164.58.244.17 (164.58.244.17)  24.631 ms  24.398 ms  24.486 ms
+10  156.110.119.10 (156.110.119.10)  24.474 ms  24.803 ms  24.790 ms
+11  139.78.1.105 (139.78.1.105)  25.417 ms  25.295 ms  25.679 ms
+12  * 139.78.1.111 (139.78.1.111)  25.637 ms  26.210 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.722 ms  25.049 ms  25.035 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 21:42:51 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.320 ms  0.300 ms  0.283 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.322 ms  0.357 ms  0.346 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.857 ms  2.848 ms  2.829 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.088 ms  3.176 ms  3.152 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.708 ms  7.765 ms  7.917 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.630 ms  18.619 ms  18.631 ms
+ 7  164.58.7.49 (164.58.7.49)  23.573 ms  23.587 ms  23.208 ms
+ 8  164.58.244.46 (164.58.244.46)  23.889 ms  23.853 ms  23.846 ms
+ 9  164.58.244.17 (164.58.244.17)  24.744 ms  24.788 ms  24.771 ms
+10  156.110.119.10 (156.110.119.10)  24.755 ms  24.898 ms  24.896 ms
+11  139.78.1.105 (139.78.1.105)  25.430 ms  25.020 ms  25.614 ms
+12  139.78.1.111 (139.78.1.111)  25.023 ms  24.989 ms  24.952 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.128 ms  25.136 ms  25.117 ms
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 22:43:10 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.331 ms  0.309 ms  0.292 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.324 ms  0.313 ms  0.300 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.846 ms  2.864 ms  2.850 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.978 ms  4.017 ms  4.002 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.654 ms  7.641 ms  7.712 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.797 ms  18.913 ms  18.899 ms
+ 7  164.58.7.49 (164.58.7.49)  25.162 ms  24.165 ms  24.147 ms
+ 8  164.58.244.46 (164.58.244.46)  23.372 ms  23.227 ms  23.210 ms
+ 9  164.58.244.17 (164.58.244.17)  24.558 ms  24.769 ms  24.728 ms
+10  156.110.119.10 (156.110.119.10)  24.711 ms  24.813 ms  24.797 ms
+11  139.78.1.105 (139.78.1.105)  25.419 ms  25.123 ms  25.061 ms
+12  139.78.1.111 (139.78.1.111)  24.929 ms  24.948 ms  24.969 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.174 ms  25.161 ms  25.014 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 02:09:09 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.321 ms  0.300 ms  0.278 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.298 ms  0.333 ms  0.319 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.046 ms  3.062 ms  3.044 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.461 ms  3.446 ms  3.416 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.859 ms  7.845 ms  7.810 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.708 ms  18.882 ms  18.743 ms
+ 7  164.58.7.49 (164.58.7.49)  23.151 ms  23.298 ms  23.279 ms
+ 8  164.58.244.46 (164.58.244.46)  23.244 ms  23.270 ms  23.239 ms
+ 9  164.58.244.17 (164.58.244.17)  24.568 ms  24.535 ms  24.530 ms
+10  156.110.119.10 (156.110.119.10)  24.515 ms  24.710 ms  24.619 ms
+11  139.78.1.105 (139.78.1.105)  25.065 ms  25.077 ms  25.038 ms
+12  139.78.1.111 (139.78.1.111)  25.033 ms  24.911 ms  24.868 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.956 ms  24.945 ms  24.999 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 03:09:28 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.311 ms  0.337 ms  0.323 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.303 ms  0.326 ms  0.312 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.923 ms  2.934 ms  2.883 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.170 ms  3.160 ms  3.136 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.821 ms  7.796 ms  7.782 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  19.015 ms  18.845 ms  18.815 ms
+ 7  164.58.7.49 (164.58.7.49)  23.216 ms  23.095 ms  23.081 ms
+ 8  164.58.244.46 (164.58.244.46)  23.247 ms  23.656 ms  23.690 ms
+ 9  164.58.244.17 (164.58.244.17)  24.652 ms  24.560 ms  24.532 ms
+10  156.110.119.10 (156.110.119.10)  24.604 ms  24.691 ms  24.557 ms
+11  139.78.1.105 (139.78.1.105)  25.432 ms  25.106 ms  25.180 ms
+12  139.78.1.111 (139.78.1.111)  24.791 ms  24.857 ms  24.967 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.291 ms  25.280 ms  25.261 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 04:09:48 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.342 ms  0.322 ms  0.306 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.337 ms  0.324 ms  0.309 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.811 ms  2.808 ms  2.789 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.103 ms  3.091 ms  3.077 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  8.027 ms  8.016 ms  7.966 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  19.637 ms  18.717 ms  18.743 ms
+ 7  164.58.7.49 (164.58.7.49)  23.159 ms  23.197 ms  23.178 ms
+ 8  164.58.244.46 (164.58.244.46)  23.140 ms  23.256 ms  23.238 ms
+ 9  164.58.244.17 (164.58.244.17)  24.599 ms  25.172 ms  25.154 ms
+10  156.110.119.10 (156.110.119.10)  24.863 ms  24.618 ms  24.603 ms
+11  139.78.1.105 (139.78.1.105)  25.574 ms  25.378 ms  25.325 ms
+12  139.78.1.111 (139.78.1.111)  24.934 ms  24.973 ms  56.431 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.982 ms  24.996 ms  24.982 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 05:10:07 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.342 ms  0.316 ms  0.298 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.364 ms  0.352 ms  0.335 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.841 ms  2.893 ms  2.877 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.131 ms  3.120 ms  3.095 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.938 ms  8.015 ms  7.997 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  19.472 ms  19.476 ms  19.457 ms
+ 7  164.58.7.49 (164.58.7.49)  23.726 ms  23.902 ms  23.887 ms
+ 8  164.58.244.46 (164.58.244.46)  23.083 ms  23.299 ms  23.282 ms
+ 9  164.58.244.17 (164.58.244.17)  24.510 ms  24.798 ms  24.781 ms
+10  156.110.119.10 (156.110.119.10)  24.865 ms  24.748 ms  24.687 ms
+11  * * *
+12  * * 139.78.1.111 (139.78.1.111)  24.878 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.995 ms  24.874 ms  24.961 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 06:10:31 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.292 ms  0.273 ms  0.301 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.337 ms  0.324 ms  0.304 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.893 ms  2.903 ms  2.890 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.078 ms  3.080 ms  3.177 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  9.881 ms  9.869 ms  9.855 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.718 ms  18.646 ms  18.655 ms
+ 7  164.58.7.49 (164.58.7.49)  22.931 ms  22.941 ms  23.047 ms
+ 8  164.58.244.46 (164.58.244.46)  23.063 ms  23.140 ms  23.238 ms
+ 9  164.58.244.17 (164.58.244.17)  24.618 ms  24.588 ms  24.579 ms
+10  156.110.119.10 (156.110.119.10)  24.698 ms  24.664 ms  24.634 ms
+11  139.78.1.105 (139.78.1.105)  24.976 ms  25.133 ms  25.339 ms
+12  139.78.1.111 (139.78.1.111)  68.908 ms  33.456 ms  33.423 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.022 ms  24.991 ms  24.984 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 07:10:51 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.334 ms  0.314 ms  0.298 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.357 ms  0.345 ms  0.330 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.867 ms  2.885 ms  2.874 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.114 ms  3.102 ms  3.088 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.611 ms  7.877 ms  7.800 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.772 ms  18.884 ms  18.870 ms
+ 7  164.58.7.49 (164.58.7.49)  36.019 ms  35.178 ms  35.160 ms
+ 8  164.58.244.46 (164.58.244.46)  23.059 ms  23.222 ms  23.231 ms
+ 9  164.58.244.17 (164.58.244.17)  24.639 ms  24.531 ms  24.539 ms
+10  156.110.119.10 (156.110.119.10)  24.607 ms  24.761 ms  24.676 ms
+11  139.78.1.105 (139.78.1.105)  25.288 ms  25.161 ms  25.235 ms
+12  139.78.1.111 (139.78.1.111)  24.991 ms  24.729 ms  24.862 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.932 ms  24.882 ms  25.175 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 08:11:10 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.339 ms  0.317 ms  0.301 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.299 ms  0.333 ms  0.319 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.867 ms  2.814 ms  2.830 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.050 ms  3.092 ms  3.079 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.820 ms  7.808 ms  7.796 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.674 ms  18.810 ms  18.772 ms
+ 7  164.58.7.49 (164.58.7.49)  23.091 ms  23.041 ms  23.015 ms
+ 8  164.58.244.46 (164.58.244.46)  23.097 ms  23.063 ms  23.030 ms
+ 9  164.58.244.17 (164.58.244.17)  24.365 ms  24.354 ms  24.337 ms
+10  156.110.119.10 (156.110.119.10)  24.377 ms  24.722 ms  24.706 ms
+11  139.78.1.105 (139.78.1.105)  25.052 ms  25.494 ms *
+12  139.78.1.111 (139.78.1.111)  24.971 ms  24.792 ms  24.686 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.073 ms  25.067 ms  25.037 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 09:11:34 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.315 ms  0.318 ms  0.304 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.324 ms  0.310 ms  0.296 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.887 ms  2.878 ms  2.859 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.107 ms  3.095 ms  3.080 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.560 ms  7.764 ms  7.702 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.703 ms  18.565 ms  18.549 ms
+ 7  164.58.7.49 (164.58.7.49)  23.007 ms  23.137 ms  23.110 ms
+ 8  164.58.244.46 (164.58.244.46)  23.265 ms  23.287 ms  23.261 ms
+ 9  164.58.244.17 (164.58.244.17)  24.305 ms  24.653 ms  24.626 ms
+10  156.110.119.10 (156.110.119.10)  24.772 ms  24.587 ms  24.680 ms
+11  139.78.1.105 (139.78.1.105)  25.331 ms  25.224 ms  25.050 ms
+12  139.78.1.111 (139.78.1.111)  24.741 ms  24.838 ms  31.849 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.949 ms  24.948 ms  24.928 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 10:11:53 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.314 ms  0.295 ms  0.279 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.306 ms  0.293 ms  0.272 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.836 ms  2.845 ms  2.831 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.074 ms  3.105 ms  3.092 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.796 ms  7.809 ms  7.779 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  26.969 ms  25.308 ms  25.292 ms
+ 7  164.58.7.49 (164.58.7.49)  23.191 ms  23.249 ms  23.221 ms
+ 8  164.58.244.46 (164.58.244.46)  24.121 ms  23.643 ms  23.627 ms
+ 9  164.58.244.17 (164.58.244.17)  24.679 ms  24.668 ms  24.731 ms
+10  156.110.119.10 (156.110.119.10)  24.885 ms  24.676 ms  24.763 ms
+11  139.78.1.105 (139.78.1.105)  25.217 ms  25.031 ms  25.028 ms
+12  139.78.1.111 (139.78.1.111)  24.739 ms  24.991 ms  24.904 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.816 ms  24.855 ms  24.827 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 11:12:13 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  2.228 ms  2.214 ms  2.198 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.324 ms  0.310 ms  0.295 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.833 ms  2.822 ms  2.808 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.135 ms  3.092 ms  3.073 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.799 ms  7.812 ms  7.799 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.638 ms  18.983 ms  19.016 ms
+ 7  164.58.7.49 (164.58.7.49)  23.135 ms  23.348 ms  23.334 ms
+ 8  164.58.244.46 (164.58.244.46)  23.320 ms  23.670 ms  23.656 ms
+ 9  164.58.244.17 (164.58.244.17)  24.700 ms  24.666 ms  24.661 ms
+10  156.110.119.10 (156.110.119.10)  24.647 ms  24.673 ms  24.697 ms
+11  139.78.1.105 (139.78.1.105)  25.429 ms  25.184 ms  25.125 ms
+12  139.78.1.111 (139.78.1.111)  24.923 ms  107.370 ms  25.179 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.243 ms  25.211 ms  25.174 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 12:12:32 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.332 ms  0.310 ms  0.266 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.352 ms  0.340 ms  0.323 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.866 ms  2.870 ms  2.855 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.103 ms  3.090 ms  3.074 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.615 ms  7.748 ms  7.785 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.816 ms  18.637 ms  18.621 ms
+ 7  164.58.7.49 (164.58.7.49)  23.054 ms  23.181 ms  23.168 ms
+ 8  164.58.244.46 (164.58.244.46)  23.139 ms  23.105 ms  23.089 ms
+ 9  164.58.244.17 (164.58.244.17)  24.504 ms  24.650 ms  24.625 ms
+10  156.110.119.10 (156.110.119.10)  24.596 ms  24.661 ms  24.623 ms
+11  139.78.1.105 (139.78.1.105)  25.007 ms  25.161 ms  25.118 ms
+12  139.78.1.111 (139.78.1.111)  24.799 ms  24.796 ms  24.831 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.838 ms  24.824 ms  24.844 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 13:12:51 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  1.019 ms  1.020 ms  1.004 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.335 ms  0.365 ms  0.352 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.184 ms  3.156 ms  3.156 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.088 ms  3.107 ms  3.091 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.663 ms  7.673 ms  7.658 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.879 ms  18.864 ms  18.849 ms
+ 7  164.58.7.49 (164.58.7.49)  23.031 ms  23.018 ms  23.002 ms
+ 8  164.58.244.46 (164.58.244.46)  23.149 ms  23.126 ms  23.098 ms
+ 9  164.58.244.17 (164.58.244.17)  24.473 ms  24.458 ms  24.583 ms
+10  156.110.119.10 (156.110.119.10)  24.745 ms  24.626 ms  24.611 ms
+11  139.78.1.105 (139.78.1.105)  25.205 ms  25.642 ms  25.613 ms
+12  139.78.1.111 (139.78.1.111)  85.731 ms  55.841 ms  24.785 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.853 ms  24.840 ms  24.907 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 14:13:11 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.428 ms  0.418 ms  0.404 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.343 ms  0.340 ms  0.322 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.849 ms  2.861 ms  2.849 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.067 ms  3.194 ms  3.178 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  16.525 ms  16.403 ms  16.390 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.865 ms  18.644 ms  18.655 ms
+ 7  164.58.7.49 (164.58.7.49)  23.373 ms  23.366 ms  23.352 ms
+ 8  164.58.244.46 (164.58.244.46)  23.340 ms  23.349 ms  23.207 ms
+ 9  164.58.244.17 (164.58.244.17)  44.121 ms  43.307 ms  43.289 ms
+10  156.110.119.10 (156.110.119.10)  24.688 ms  24.642 ms  24.629 ms
+11  139.78.1.105 (139.78.1.105)  25.162 ms  25.359 ms  25.434 ms
+12  139.78.1.111 (139.78.1.111)  25.325 ms  24.915 ms  24.780 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.042 ms  25.013 ms  25.000 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 15:13:30 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.335 ms  0.359 ms  0.343 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.357 ms  0.341 ms  0.318 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.023 ms  3.035 ms  3.021 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.288 ms  3.269 ms  3.323 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.774 ms  7.795 ms  7.769 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  19.120 ms  18.763 ms  18.816 ms
+ 7  164.58.7.49 (164.58.7.49)  23.349 ms  23.325 ms  23.413 ms
+ 8  164.58.244.46 (164.58.244.46)  23.379 ms  23.334 ms  23.317 ms
+ 9  164.58.244.17 (164.58.244.17)  24.536 ms  24.575 ms  24.559 ms
+10  156.110.119.10 (156.110.119.10)  24.788 ms  24.826 ms  24.809 ms
+11  139.78.1.105 (139.78.1.105)  25.322 ms  25.231 ms  25.088 ms
+12  139.78.1.111 (139.78.1.111)  24.961 ms  24.954 ms  24.906 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.973 ms  24.958 ms  24.921 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 16:13:54 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.325 ms  0.304 ms  0.289 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.259 ms  0.358 ms  0.312 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.424 ms  3.411 ms  3.403 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.215 ms  3.164 ms  3.181 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.733 ms  7.742 ms  7.700 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.832 ms  18.892 ms  18.899 ms
+ 7  164.58.7.49 (164.58.7.49)  23.531 ms  23.519 ms  23.477 ms
+ 8  164.58.244.46 (164.58.244.46)  23.432 ms  23.432 ms  23.417 ms
+ 9  164.58.244.17 (164.58.244.17)  24.669 ms  24.802 ms  24.786 ms
+10  156.110.119.10 (156.110.119.10)  24.758 ms  24.907 ms  24.886 ms
+11  139.78.1.105 (139.78.1.105)  25.697 ms  25.148 ms  25.763 ms
+12  139.78.1.111 (139.78.1.111)  24.826 ms  25.045 ms  25.026 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.910 ms  24.893 ms  24.816 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 17:14:14 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.352 ms  0.295 ms  0.275 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.342 ms  0.328 ms  0.305 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.327 ms  3.342 ms  3.327 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  4.048 ms  4.020 ms  4.015 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  8.159 ms  8.173 ms  8.134 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.982 ms  19.243 ms  19.228 ms
+ 7  164.58.7.49 (164.58.7.49)  23.541 ms  24.210 ms  24.258 ms
+ 8  164.58.244.46 (164.58.244.46)  23.265 ms  23.799 ms  23.781 ms
+ 9  164.58.244.17 (164.58.244.17)  24.735 ms  24.524 ms  24.689 ms
+10  156.110.119.10 (156.110.119.10)  24.775 ms  24.758 ms  24.735 ms
+11  139.78.1.105 (139.78.1.105)  25.234 ms  25.806 ms  25.671 ms
+12  139.78.1.111 (139.78.1.111)  37.968 ms  27.375 ms  24.991 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.165 ms  25.344 ms  25.123 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 18:14:33 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.405 ms  0.390 ms  0.381 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.356 ms  0.346 ms  0.331 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.833 ms  2.844 ms  3.029 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.183 ms  3.139 ms  3.120 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.736 ms  7.746 ms  7.731 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.661 ms  18.868 ms  18.854 ms
+ 7  164.58.7.49 (164.58.7.49)  23.183 ms  23.265 ms  23.373 ms
+ 8  164.58.244.46 (164.58.244.46)  23.361 ms  23.104 ms  23.279 ms
+ 9  164.58.244.17 (164.58.244.17)  24.781 ms  24.776 ms  24.761 ms
+10  156.110.119.10 (156.110.119.10)  24.742 ms  24.750 ms  24.736 ms
+11  139.78.1.105 (139.78.1.105)  25.469 ms  26.156 ms  25.885 ms
+12  139.78.1.111 (139.78.1.111)  25.868 ms  27.118 ms  25.148 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.450 ms  25.417 ms  25.411 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 19:14:52 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.339 ms  0.317 ms  0.302 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.351 ms  0.342 ms  0.320 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.852 ms  2.864 ms  2.846 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  10.526 ms  10.520 ms  10.496 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.768 ms  7.888 ms  7.876 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  19.016 ms  18.589 ms  18.595 ms
+ 7  164.58.7.49 (164.58.7.49)  23.075 ms  23.194 ms  23.180 ms
+ 8  164.58.244.46 (164.58.244.46)  23.303 ms  23.103 ms  23.065 ms
+ 9  164.58.244.17 (164.58.244.17)  24.483 ms  24.779 ms  24.740 ms
+10  156.110.119.10 (156.110.119.10)  25.003 ms  25.483 ms  25.220 ms
+11  139.78.1.105 (139.78.1.105)  25.731 ms  25.881 ms  25.804 ms
+12  139.78.1.111 (139.78.1.111)  25.326 ms  25.478 ms  25.162 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.066 ms  25.150 ms  25.137 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 20:15:12 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.351 ms  0.329 ms  0.307 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.336 ms  0.332 ms  0.317 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.284 ms  3.274 ms  3.255 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  7.199 ms  7.212 ms  7.291 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  8.040 ms  8.022 ms  8.007 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  21.675 ms  21.706 ms  21.737 ms
+ 7  164.58.7.49 (164.58.7.49)  26.822 ms  26.896 ms  27.192 ms
+ 8  164.58.244.46 (164.58.244.46)  27.162 ms  27.148 ms  27.112 ms
+ 9  164.58.244.17 (164.58.244.17)  29.340 ms  29.665 ms  29.635 ms
+10  156.110.119.10 (156.110.119.10)  29.847 ms  29.812 ms  29.811 ms
+11  139.78.1.105 (139.78.1.105)  30.225 ms  30.020 ms  29.535 ms
+12  139.78.1.111 (139.78.1.111)  25.700 ms  24.964 ms  27.890 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  27.973 ms  28.031 ms  28.002 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 21:15:31 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.332 ms  0.309 ms  0.292 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.334 ms  0.321 ms  0.301 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  7.394 ms  7.404 ms  7.391 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  12.925 ms  12.949 ms  12.931 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  18.362 ms  18.354 ms  18.339 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  23.685 ms  23.996 ms  24.006 ms
+ 7  164.58.7.49 (164.58.7.49)  28.372 ms  28.226 ms  28.199 ms
+ 8  164.58.244.46 (164.58.244.46)  28.167 ms  28.612 ms  28.603 ms
+ 9  164.58.244.17 (164.58.244.17)  30.045 ms  30.371 ms  30.339 ms
+10  156.110.119.10 (156.110.119.10)  30.365 ms  29.995 ms  30.048 ms
+11  139.78.1.105 (139.78.1.105)  31.223 ms  30.565 ms  30.555 ms
+12  139.78.1.111 (139.78.1.111)  33.481 ms  30.439 ms  34.345 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  34.352 ms  34.483 ms  34.555 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 22:15:50 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.328 ms  0.303 ms  0.272 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.299 ms  0.333 ms  0.360 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.061 ms  3.067 ms  3.040 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.544 ms  3.578 ms  3.563 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.854 ms  7.864 ms  7.850 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.760 ms  18.786 ms  18.795 ms
+ 7  164.58.7.49 (164.58.7.49)  23.481 ms  23.442 ms  23.406 ms
+ 8  164.58.244.46 (164.58.244.46)  23.517 ms  23.834 ms  23.806 ms
+ 9  164.58.244.17 (164.58.244.17)  25.015 ms  24.833 ms  24.817 ms
+10  156.110.119.10 (156.110.119.10)  24.930 ms  25.011 ms  24.967 ms
+11  139.78.1.105 (139.78.1.105)  25.073 ms  25.878 ms  26.204 ms
+12  139.78.1.111 (139.78.1.111)  25.163 ms  24.940 ms  24.902 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.114 ms  25.065 ms  25.046 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 23:16:10 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.460 ms  0.481 ms  0.468 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  2.178 ms  2.151 ms  2.145 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.843 ms  2.824 ms  2.806 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.079 ms  3.119 ms  3.107 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.831 ms  7.837 ms  7.824 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.630 ms  18.836 ms  18.799 ms
+ 7  164.58.7.49 (164.58.7.49)  23.289 ms  23.434 ms  23.405 ms
+ 8  164.58.244.46 (164.58.244.46)  23.380 ms  23.367 ms  23.426 ms
+ 9  164.58.244.17 (164.58.244.17)  24.913 ms  24.559 ms  24.535 ms
+10  156.110.119.10 (156.110.119.10)  25.030 ms  25.095 ms  25.066 ms
+11  139.78.1.105 (139.78.1.105)  25.335 ms  25.341 ms  25.350 ms
+12  139.78.1.111 (139.78.1.111)  24.918 ms  25.085 ms  24.958 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.079 ms  25.361 ms  25.043 ms
+Beginning of new TRACEROUTE measurement
+Wed Apr 13 00:16:29 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.332 ms  0.312 ms  0.296 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.736 ms  0.708 ms  0.701 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  2.891 ms  2.880 ms  2.854 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.132 ms  3.104 ms  3.163 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.832 ms  7.839 ms  7.825 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  18.689 ms  18.987 ms  18.953 ms
+ 7  164.58.7.49 (164.58.7.49)  23.232 ms  23.383 ms  23.354 ms
+ 8  164.58.244.46 (164.58.244.46)  23.319 ms  23.042 ms  23.249 ms
+ 9  164.58.244.17 (164.58.244.17)  24.526 ms  24.517 ms  24.504 ms
+10  156.110.119.10 (156.110.119.10)  24.639 ms  24.598 ms  24.574 ms
+11  139.78.1.105 (139.78.1.105)  25.199 ms  25.380 ms  25.271 ms
+12  139.78.1.111 (139.78.1.111)  24.920 ms  24.799 ms  24.819 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  24.733 ms  24.719 ms  24.679 ms
+Beginning of new TRACEROUTE measurement
+Wed Apr 13 01:16:49 UTC 2016
+traceroute to planetlab1.cs.okstate.edu (139.78.141.243), 30 hops max, 60 byte packets
+ 1  xe-0-2-2.560.cr3.bldc.net.uits.iu.edu (156.56.250.253)  0.321 ms  0.302 ms  0.286 ms
+ 2  ae-13.0.br2.bldc.net.uits.iu.edu (134.68.3.58)  0.314 ms  0.350 ms  0.337 ms
+ 3  irb.10.rtr.ll.indiana.gigapop.net (149.165.254.233)  3.330 ms  3.318 ms  3.299 ms
+ 4  irb.112.rtr.ictc.indiana.gigapop.net (149.165.255.81)  3.049 ms  3.124 ms  3.134 ms
+ 5  et-10-0-0.101.rtr.chic.net.internet2.edu (149.165.254.186)  7.626 ms  7.698 ms  7.638 ms
+ 6  et-10-0-0.106.rtr.kans.net.internet2.edu (198.71.45.15)  65.039 ms  65.439 ms  65.446 ms
+ 7  164.58.7.49 (164.58.7.49)  69.277 ms  69.258 ms  69.227 ms
+ 8  164.58.244.46 (164.58.244.46)  69.162 ms  68.520 ms  68.492 ms
+ 9  164.58.244.17 (164.58.244.17)  70.806 ms  69.769 ms  69.739 ms
+10  156.110.119.10 (156.110.119.10)  70.027 ms  68.946 ms  68.906 ms
+11  139.78.1.105 (139.78.1.105)  69.537 ms  68.703 ms  68.282 ms
+12  139.78.1.111 (139.78.1.111)  24.900 ms  25.030 ms  25.008 ms
+13  planetlab1.cs.okstate.edu (139.78.141.243)  25.032 ms  25.020 ms  25.070 ms

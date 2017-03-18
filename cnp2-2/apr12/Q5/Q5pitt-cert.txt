@@ -1,0 +1,1143 @@
+Beginning of new TRACEROUTE measurement
+Sun Apr  3 02:11:05 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  6.112 ms  5.769 ms  3.137 ms
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  2.949 ms  2.987 ms  2.857 ms
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  10.155 ms  8.934 ms  12.050 ms
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  74.863 ms  75.030 ms  74.531 ms
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  74.539 ms  74.703 ms  74.532 ms
+ 6  162.252.69.139 (162.252.69.139)  78.435 ms  77.854 ms  75.232 ms
+ 7  202.97.50.21 (202.97.50.21)  78.672 ms  76.281 ms  77.373 ms
+ 8  202.97.58.169 (202.97.58.169)  210.094 ms  212.943 ms  210.402 ms
+ 9   (202.97.35.101)  226.675 ms  (202.97.33.125)  218.432 ms 202.97.91.49 (202.97.91.49)  229.231 ms
+10   (202.97.35.153)  228.931 ms  232.086 ms  232.315 ms
+11  202.97.92.6 (202.97.92.6)  241.304 ms  242.612 ms  242.334 ms
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  223.211 ms  219.997 ms  220.992 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  5.921 ms  3.113 ms  2.903 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  4.918 ms  4.912 ms  4.909 ms
+ 9  202.97.91.41 (202.97.91.41)  241.280 ms 202.97.91.45 (202.97.91.45)  224.113 ms  (202.97.33.101)  206.948 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  9.812 ms  8.188 ms  10.548 ms
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  75.144 ms  77.012 ms  78.108 ms
+10   (202.97.35.153)  229.003 ms  232.622 ms  235.813 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 8  202.97.58.169 (202.97.58.169)  212.794 ms  210.372 ms  210.012 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  77.612 ms  76.910 ms  75.110 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  77.995 ms  80.237 ms  78.412 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  77.493 ms  76.212 ms  77.977 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  7.912 ms  6.392 ms  8.896 ms
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  268.512 ms  269.141 ms  276.534 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+11  202.97.92.6 (202.97.92.6)  287.178 ms  284.762 ms  287.413 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 8  * 202.97.58.169 (202.97.58.169)  211.112 ms *
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  79.312 ms  75.920 ms  77.278 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  221.913 ms  220.368 ms  224.518 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+11  202.97.92.6 (202.97.92.6)  241.737 ms  242.412 ms  243.848 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  74.732 ms  75.339 ms  76.412 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  9.313 ms  11.265 ms  6.387 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  221.109 ms  224.861 ms  223.612 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  270.814 ms  271.112 ms  276.422 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  75.529 ms  75.712 ms  80.142 ms
+ 9   (202.97.33.125)  218.325 ms 202.97.91.49 (202.97.91.49)  230.212 ms  (202.97.35.101)  227.424 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  2.976 ms  2.950 ms  2.912 ms
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  74.512 ms  74.654 ms  74.491 ms
+ 9   (202.97.33.49)  229.413 ms  (202.97.33.125)  217.437 ms 202.97.91.45 (202.97.91.45)  226.379 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  87.568 ms  82.563 ms  79.613 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  8.532 ms  59.112 ms  51.564 ms
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  14.170 ms  14.340 ms  17.113 ms
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  269.556 ms  271.573 ms  266.512 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  278.003 ms  284.613 ms  279.055 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+11  202.97.92.6 (202.97.92.6)  291.712 ms  292.262 ms  291.744 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  81.312 ms  77.481 ms  82.022 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  79.961 ms  77.012 ms  79.989 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  11.512 ms  20.123 ms  14.874 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  75.614 ms  77.302 ms  78.712 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  12.460 ms  6.112 ms  3.849 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  78.075 ms  76.366 ms  76.713 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  10.188 ms  7.013 ms  3.073 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  5.113 ms  8.352 ms  8.903 ms
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  79.312 ms  75.940 ms  78.093 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  77.724 ms  77.319 ms  81.812 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  89.188 ms  86.777 ms  82.712 ms
+11  202.97.92.6 (202.97.92.6)  253.708 ms  248.113 ms  245.413 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  3.464 ms  8.113 ms  10.418 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  15.897 ms  8.213 ms  15.099 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  9.871 ms  9.508 ms  9.712 ms
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  24.255 ms  19.212 ms  18.807 ms
+ 7  202.97.50.21 (202.97.50.21)  75.751 ms  77.030 ms  79.813 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  79.278 ms  77.234 ms  78.613 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  8.176 ms  8.098 ms  10.112 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  77.013 ms  75.462 ms  74.800 ms
+ 7  202.97.50.21 (202.97.50.21)  78.690 ms  77.413 ms  74.793 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  268.313 ms  268.991 ms  261.924 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  277.250 ms  278.653 ms  276.113 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  9.213 ms  17.263 ms  18.270 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  81.183 ms  82.448 ms  81.713 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 9  202.97.91.41 (202.97.91.41)  243.092 ms  (202.97.33.49)  233.012 ms 202.97.91.49 (202.97.91.49)  230.102 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  77.713 ms  78.240 ms  78.153 ms
+10   (202.97.35.153)  339.412 ms  340.459 ms  337.174 ms
+12  * * *
+13  * * *
+14   (218.94.106.112)  313.213 ms  314.097 ms  316.436 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  275.891 ms  275.988 ms  274.913 ms
+11  202.97.92.6 (202.97.92.6)  292.311 ms  295.112 ms  289.906 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  76.640 ms  75.700 ms  76.813 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  75.612 ms  74.565 ms  75.913 ms
+ 6  162.252.69.139 (162.252.69.139)  78.412 ms  78.653 ms  75.900 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  75.606 ms  76.813 ms  80.095 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  77.778 ms  78.951 ms  76.612 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  78.112 ms  76.924 ms  76.585 ms
+ 9  202.97.91.41 (202.97.91.41)  241.112 ms 202.97.91.45 (202.97.91.45)  249.887 ms  (202.97.35.101)  226.104 ms
+11  202.97.92.6 (202.97.92.6)  243.813 ms  247.629 ms  243.198 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 9   (202.97.33.49)  226.612 ms 202.97.91.49 (202.97.91.49)  216.670 ms  217.013 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  81.012 ms  77.610 ms  78.963 ms
+ 9  202.97.91.45 (202.97.91.45)  229.078 ms  225.355 ms  222.612 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Thu Apr  7 04:00:13 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 9  202.97.91.41 (202.97.91.41)  246.913 ms  (202.97.33.49)  233.486 ms  (202.97.33.101)  206.054 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  29.478 ms  55.776 ms  53.013 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  79.999 ms  88.713 ms  83.931 ms
+10   (202.97.35.153)  332.912 ms  330.494 ms  327.821 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  75.465 ms  80.557 ms  77.912 ms
+ 9  202.97.91.41 (202.97.91.41)  283.780 ms  (202.97.33.101)  256.212 ms  (202.97.33.49)  278.316 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 8  202.97.58.169 (202.97.58.169)  215.745 ms  213.020 ms  210.213 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  77.413 ms  78.375 ms  75.750 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  78.212 ms  80.917 ms  79.183 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  77.779 ms  80.662 ms  78.812 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  256.652 ms  257.538 ms  255.612 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  252.112 ms  256.865 ms  254.689 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  78.513 ms  77.716 ms  78.900 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  8.990 ms  5.305 ms  3.113 ms
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  76.920 ms  74.788 ms  74.913 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  9.252 ms  14.713 ms  9.597 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  11.812 ms  12.137 ms  11.993 ms
+ 9  202.97.91.49 (202.97.91.49)  221.377 ms  216.913 ms  (202.97.35.101)  227.650 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  329.813 ms  316.232 ms  320.380 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  77.113 ms  74.831 ms  76.392 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  81.950 ms  75.911 ms  77.213 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  77.830 ms  77.146 ms  76.612 ms
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  220.212 ms  219.886 ms  237.758 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  81.338 ms  77.874 ms  78.213 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  83.092 ms  79.512 ms  84.929 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  11.113 ms  12.930 ms  14.484 ms
+ 6  162.252.69.139 (162.252.69.139)  78.712 ms  78.259 ms  78.818 ms
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  268.813 ms  271.602 ms  273.953 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  85.736 ms  81.404 ms  91.513 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  299.187 ms  300.012 ms  299.820 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  3.320 ms  6.346 ms  3.413 ms
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  84.324 ms  83.113 ms  78.653 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+11  202.97.92.6 (202.97.92.6)  292.258 ms  292.414 ms  293.012 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  79.263 ms  76.012 ms  78.038 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+14  planetlab-js1.cert.org.cn (218.94.106.112)  228.260 ms  223.712 ms  227.584 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  4.356 ms  3.390 ms  3.412 ms
+ 9  202.97.91.45 (202.97.91.45)  230.812 ms  231.090 ms  232.407 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  4.201 ms  9.612 ms  6.494 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  77.478 ms  75.313 ms  75.322 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 18:11:13 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  11.333 ms  20.389 ms  17.012 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 9   (202.97.33.125)  245.758 ms 202.97.91.49 (202.97.91.49)  216.021 ms 202.97.91.45 (202.97.91.45)  267.513 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Sun Apr 10 00:18:12 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  80.697 ms  78.721 ms  78.312 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  79.313 ms  82.244 ms  78.709 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  79.926 ms  76.313 ms  77.390 ms
+ 7  202.97.50.21 (202.97.50.21)  77.382 ms  77.764 ms  82.813 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  82.413 ms  81.063 ms  78.189 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  11.712 ms  11.407 ms  18.865 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  78.613 ms  82.987 ms  90.959 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  5.282 ms  5.813 ms  3.712 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  76.619 ms  79.377 ms  82.112 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+11  202.97.92.6 (202.97.92.6)  288.990 ms  291.912 ms  293.425 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  80.678 ms  79.768 ms  81.813 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  89.113 ms  87.837 ms  81.636 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  11.237 ms  8.483 ms  8.512 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  78.313 ms  75.621 ms  79.902 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 9  202.97.91.41 (202.97.91.41)  239.052 ms 202.97.91.45 (202.97.91.45)  224.512 ms  (202.97.35.101)  226.483 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 1  vl1450.fq-core-2.gw.pitt.edu (192.52.240.209)  6.621 ms  5.912 ms  3.501 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  78.012 ms  78.160 ms  79.597 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  76.012 ms  80.534 ms  77.765 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 2  xe-1-0-1-713.externals-cl.gw.pitt.edu (136.142.2.169)  11.213 ms  5.676 ms  9.840 ms
+ 7  202.97.50.21 (202.97.50.21)  81.512 ms  85.050 ms  81.430 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 7  202.97.50.21 (202.97.50.21)  78.937 ms  87.014 ms  81.213 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 15:59:12 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 9   (202.97.35.101)  324.399 ms  (202.97.33.101)  303.612 ms 202.97.91.49 (202.97.91.49)  312.392 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  79.613 ms  78.219 ms  76.327 ms
+ 5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  83.751 ms  77.648 ms  75.312 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  84.991 ms  78.599 ms  85.212 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr 11 23:07:12 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 00:08:24 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 8  * 202.97.58.169 (202.97.58.169)  212.212 ms *
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 01:09:34 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 02:10:37 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 6  162.252.69.139 (162.252.69.139)  78.012 ms  76.403 ms  77.672 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 03:11:52 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  *  (202.97.33.49)  223.062 ms  223.351 ms
+13   (202.97.35.153)  269.154 ms  266.184 ms  268.557 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 04:12:51 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 8  202.97.58.169 (202.97.58.169)  212.840 ms  221.183 ms  215.012 ms
+ 9  202.97.91.45 (202.97.91.45)  227.595 ms  228.513 ms  237.180 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 05:13:27 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  77.412 ms  80.655 ms  77.604 ms
+ 7  202.97.50.21 (202.97.50.21)  78.725 ms  81.086 ms  83.813 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 06:14:24 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  233.987 ms  231.173 ms  239.012 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 07:15:25 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 08:16:17 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  260.664 ms  263.113 ms  267.778 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 09:17:14 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+11  202.97.92.6 (202.97.92.6)  296.406 ms  295.413 ms  292.332 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 10:18:14 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 11:19:09 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 12:20:10 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 9   (202.97.33.125)  217.304 ms 202.97.91.45 (202.97.91.45)  226.822 ms  (202.97.33.101)  208.112 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 13:21:28 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  266.812 ms  272.770 ms  277.930 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 14:22:44 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 15:23:58 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 16:25:18 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 17:26:43 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 18:28:01 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+10   (202.97.35.153)  227.013 ms  233.582 ms  230.735 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 19:29:10 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 20:30:30 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 3  et-0-3-0.sdn-sw.ashb.i2.gw.pitt.edu (136.142.253.152)  9.813 ms  11.487 ms  8.837 ms
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  74.907 ms  74.812 ms  74.846 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 21:31:53 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 22:33:02 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 23:34:01 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+ 4  xe-8-1-1.0.rtr.losa.net.internet2.edu (64.57.20.247)  76.203 ms  75.489 ms  75.712 ms
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Wed Apr 13 00:34:56 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *
+Beginning of new TRACEROUTE measurement
+Wed Apr 13 01:36:27 UTC 2016
+traceroute to planetlab-js1.cert.org.cn (218.94.106.112), 30 hops max, 60 byte packets
+12  * * *
+13  * * *

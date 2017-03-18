@@ -1,0 +1,32 @@
+6test-pitt-----no fluttering
+pitt-6test-----no fluttering
+
+tsuniv-rice-----  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  82.947 ms  80.778 ms  80.733 ms
+                -fluttering at houston
+rice-tsuniv----- 9  uomemtn-chic.memphis.edu (141.225.250.25)  42.674 ms  43.141 ms  43.112 ms
+		-fluttering at memphis
+
+coffee-ucla-----2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  3.613 ms  3.612 ms  3.608 ms
+		-fluttering at cwt
+ucla-coffee-----no fluttering
+
+pitt-cert-----5  et-4-0-0.80.rtr.wilc.net.internet2.edu (64.57.20.127)  77.724 ms  77.319 ms  81.812 ms
+	     -fluttering at wilc
+cert-pitt----- 6  202.97.50.226 (202.97.50.226)  57.762 ms * *
+	     -fluttering AT 202.97.50.226
+
+oks-indiana-----no fluttering
+indiana-oks-----no fluttering
+
+
+command used:
+grep -f pitt-cert-trace-sample.txt  pitt-cert-trace.txt >> Q5pitt-cert.txt
+grep -f cert-pitt-trace-sample.txt cert-pitt-trace.txt  >> Q5cert-pitt.txt
+grep -f pitt-6test-trace-sample.txt pitt-6test-trace.txt  >> Q5pitt-6test.txt
+grep -f 6test-pitt-trace-sample.txt 6test-pitt-trace.txt  >> Q56test-pitt.txt
+grep -f oks-indiana-trace-sample.txt oks-indiana-trace.txt  >> Q5oks-indiana.txt
+grep -f indiana-oks-trace-sample.txt  indiana-oks-trace.txt >> Q5indiana-oks.txt
+grep -f ucla-coffee-trace-sample.txt ucla-coffee-trace.txt  >> Q5ucla-coffee.txt
+grep -f coffee-ucla-trace-sample.txt coffee-ucla-trace.txt  >> Q5coffee-ucla.txt
+grep -f rice-tsuniv-trace-sample.txt rice-tsuniv-trace.txt  >> Q5rice-tsuniv.txt
+grep -f tsuniv-rice-trace-sample.txt tsuniv-rice-trace.txt  >> Q5tsuniv-rice.txt

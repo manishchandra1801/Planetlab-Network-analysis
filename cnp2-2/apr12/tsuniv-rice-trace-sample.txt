@@ -1,0 +1,19 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 05:14:23 UTC 2016
+traceroute to ricepl-1.cs.rice.edu (128.42.142.41), 30 hops max, 60 byte packets
+ 1  206.23.240.1 (206.23.240.1)  0.171 ms  0.157 ms  0.155 ms
+ 2  172.26.192.110 (172.26.192.110)  0.516 ms  0.542 ms  0.612 ms
+ 3  * * *
+ 4  * * *
+ 5  172.26.97.1 (172.26.97.1)  9.573 ms  9.630 ms  9.640 ms
+ 6  dnat136.nettn.org (70.150.247.136)  9.877 ms  10.547 ms  10.573 ms
+ 7  dnat136.nettn.org (70.150.247.136)  11.123 ms  11.087 ms  11.009 ms
+ 8  cr2.attga.ip.att.net (12.122.140.170)  17.985 ms  17.291 ms  17.321 ms
+ 9  cr2.attga.ip.att.net (12.122.140.170)  17.305 ms  17.232 ms  15.960 ms
+10  12.122.117.121 (12.122.117.121)  18.098 ms  17.617 ms  17.269 ms
+11  * * *
+12  ae-0-11.bar1.Houston1.Level3.net (4.69.137.133)  28.161 ms *  60.186 ms
+13  RICE-UNIVER.bar1.Houston1.Level3.net (4.28.32.182)  82.947 ms  80.778 ms  80.733 ms
+14  * * *
+15  * * *
+16  ricepl-1.cs.rice.edu (128.42.142.41)  53.057 ms  52.954 ms  53.022 ms

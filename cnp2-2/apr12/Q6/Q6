@@ -1,0 +1,3 @@
+in cn-q1-real.xsls
+
+-the Q6 column shows that there are inconsistencies taht occur between nodes and number of hops from A->B are not equal to B->A

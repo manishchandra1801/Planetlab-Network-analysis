@@ -1,0 +1,632 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 03:06:12 UTC 2016
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+ 1  ro-mathscience.net.okstate.edu (139.78.143.254)  0.279 ms  0.282 ms  0.304 ms
+ 2  139.78.1.78 (139.78.1.78)  0.428 ms  0.513 ms  0.623 ms
+ 3  139.78.1.72 (139.78.1.72)  0.422 ms  0.426 ms  0.420 ms
+ 4  156.110.119.9 (156.110.119.9)  0.787 ms  0.623 ms  0.628 ms
+ 5  164.58.244.16 (164.58.244.16)  2.124 ms  2.155 ms  2.121 ms
+ 6  164.58.244.47 (164.58.244.47)  2.143 ms  2.110 ms  2.176 ms
+ 7  164.58.7.50 (164.58.7.50)  6.525 ms  6.552 ms  6.546 ms
+ 8  et-9-0-0.106.rtr.chic.net.internet2.edu (198.71.45.14)  17.670 ms  17.706 ms  17.689 ms
+ 9  ae-1.2063.rtr.ictc.indiana.gigapop.net (149.165.254.185)  22.302 ms  22.244 ms  22.273 ms
+10  irb.112.rtr.ll.indiana.gigapop.net (149.165.255.82)  22.383 ms  22.423 ms  22.280 ms
+11  149.165.254.234 (149.165.254.234)  24.823 ms  24.928 ms  24.962 ms
+12  ae-10.0.cr3.bldc.net.uits.iu.edu (134.68.3.59)  24.895 ms  24.941 ms  24.912 ms
+13  pl2.ucs.indiana.edu (156.56.250.227)  25.017 ms  24.920 ms  24.700 ms
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets
+Beginning of new TRACEROUTE measurement
+traceroute to pl2.ucs.indiana.edu (156.56.250.227), 30 hops max, 60 byte packets

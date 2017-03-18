@@ -1,0 +1,1394 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 05:01:36 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 1  193.1.13.1 (193.1.13.1)  0.133 ms  0.121 ms  0.118 ms
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  2.479 ms  2.475 ms  2.490 ms
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.183 ms  12.190 ms  12.186 ms
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  86.805 ms  86.825 ms  86.826 ms
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  99.737 ms  99.745 ms  99.745 ms
+ 6  et-10-2-0.105.rtr.hous.net.internet2.edu (198.71.45.13)  123.727 ms  123.775 ms  123.690 ms
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.018 ms  157.228 ms  157.215 ms
+ 8  137.164.26.200 (137.164.26.200)  156.271 ms  156.328 ms  156.311 ms
+ 9  * * *
+10  bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  185.276 ms bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  156.993 ms bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  165.277 ms
+11  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  156.991 ms cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  156.780 ms cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  156.697 ms
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  156.870 ms  156.852 ms  156.883 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  3.112 ms  3.120 ms  3.121 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  5.399 ms  5.412 ms  5.412 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  3.613 ms  3.612 ms  3.608 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  4.814 ms  4.813 ms  4.812 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  111.412 ms  111.433 ms  111.435 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  111.392 ms  111.402 ms  111.412 ms
+ 8  137.164.26.200 (137.164.26.200)  168.220 ms  167.976 ms  168.112 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  168.171 ms  168.307 ms  168.312 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  171.146 ms  171.236 ms  171.212 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  168.112 ms  168.123 ms  168.203 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  181.112 ms  181.122 ms  181.103 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  171.038 ms  171.217 ms  171.312 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  169.212 ms  169.302 ms  169.300 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  181.212 ms  181.232 ms  181.204 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+10  bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  168.681 ms bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  171.720 ms bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  170.412 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  111.403 ms  111.418 ms  111.412 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  3.210 ms  3.212 ms  3.210 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+11  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  181.436 ms  181.386 ms cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  168.612 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  171.391 ms  171.412 ms  171.386 ms
+ 9  * * *
+10  bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  171.943 ms  171.881 ms bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  168.612 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.212 ms  12.218 ms  12.216 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  2 17:27:12 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.212 ms  12.215 ms  12.210 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 6  et-10-2-0.105.rtr.hous.net.internet2.edu (198.71.45.13)  138.712 ms  138.836 ms  138.815 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  111.412 ms  111.426 ms  111.421 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 6  et-10-2-0.105.rtr.hous.net.internet2.edu (198.71.45.13)  138.749 ms  139.012 ms  138.982 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  171.038 ms  171.229 ms  171.212 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  170.412 ms  170.427 ms  170.428 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.207 ms  12.212 ms  12.211 ms
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  111.707 ms  111.712 ms  111.706 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.212 ms  12.226 ms  12.224 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+10  bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  171.575 ms bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  169.132 ms  169.112 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  3.313 ms  3.312 ms  3.316 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  6.012 ms  6.019 ms  6.019 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Mon Apr  4 14:46:12 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  111.306 ms  111.312 ms  111.309 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  111.532 ms  111.512 ms  111.553 ms
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  181.184 ms  181.240 ms  181.212 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  112.612 ms  112.692 ms  112.688 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  5.016 ms  5.014 ms  5.012 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+11  cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  175.624 ms cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  188.322 ms  181.312 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.205 ms  12.214 ms  12.212 ms
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  171.209 ms  171.435 ms  171.412 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  181.197 ms  181.210 ms  181.212 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  181.238 ms  181.212 ms  181.317 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  168.220 ms  168.622 ms  168.612 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  6.225 ms  6.220 ms  6.212 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.207 ms  12.212 ms  12.211 ms
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  181.212 ms  181.241 ms  181.209 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Wed Apr  6 00:00:12 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  4.916 ms  4.912 ms  4.920 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.200 ms  12.212 ms  12.212 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  111.393 ms  111.405 ms  111.412 ms
+ 9  * * *
+11  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  181.012 ms cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  186.792 ms cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  212.569 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.212 ms  12.219 ms  12.218 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+10  bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  177.155 ms bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  168.834 ms  168.812 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.212 ms  12.211 ms  12.204 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  2.914 ms  2.912 ms  2.907 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 6  et-10-2-0.105.rtr.hous.net.internet2.edu (198.71.45.13)  138.777 ms  138.812 ms  138.805 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  171.116 ms  171.335 ms  171.312 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.205 ms  12.214 ms  12.212 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  168.798 ms  168.812 ms  168.812 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.214 ms  12.219 ms  12.212 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  156.615 ms  156.612 ms  156.613 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  2.612 ms  2.607 ms  2.597 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.294 ms  156.312 ms  156.306 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  86.887 ms  86.899 ms  86.912 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.214 ms  12.212 ms  12.207 ms
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  177.312 ms  177.395 ms  177.356 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Fri Apr  8 23:31:12 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 00:31:38 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 01:32:02 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 02:32:28 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 03:32:53 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 04:33:18 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 05:33:43 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 06:34:08 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 07:34:33 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 08:34:59 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 09:35:25 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.367 ms  156.312 ms  156.305 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 10:35:51 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 11:36:16 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+10  bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  157.012 ms bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  156.625 ms bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  156.759 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 12:36:41 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.217 ms  12.212 ms  12.203 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 13:37:06 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 14:37:32 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 15:37:58 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 16:38:23 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+10  bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  157.012 ms bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  157.215 ms bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  156.774 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 17:38:49 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.448 ms  156.315 ms  156.312 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 18:39:15 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 19:39:40 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  156.412 ms  156.705 ms  156.702 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 20:40:05 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  156.247 ms  156.315 ms  156.312 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 21:40:31 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  156.834 ms  156.905 ms  156.812 ms
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 22:40:57 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Sat Apr  9 23:41:22 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  99.812 ms  99.790 ms  99.799 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.212 ms  12.211 ms  12.202 ms
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.312 ms  156.267 ms  156.254 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  5.426 ms  5.424 ms  5.412 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  riv-hpr2--lax-hpr2-10g.cenic.net (137.164.25.34)  161.385 ms hpr-riv-hpr2--lax-hpr2-10ge-2.cenic.net (137.164.25.54)  161.018 ms riv-hpr2--lax-hpr2-10g.cenic.net (137.164.25.34)  161.312 ms
+12  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  166.607 ms  166.578 ms  166.582 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  hpr-riv-hpr2--lax-hpr2-10ge-2.cenic.net (137.164.25.54)  161.175 ms riv-hpr2--lax-hpr2-10g.cenic.net (137.164.25.34)  161.298 ms  161.279 ms
+12  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  176.193 ms  176.161 ms  176.178 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.212 ms  156.402 ms  156.391 ms
+ 9  riv-hpr2--lax-hpr2-10g.cenic.net (137.164.25.34)  161.381 ms  161.220 ms  166.301 ms
+12  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  166.741 ms  166.829 ms  166.760 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 6  et-10-2-0.105.rtr.hous.net.internet2.edu (198.71.45.13)  123.578 ms  123.712 ms  123.702 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  4.312 ms  4.310 ms  4.316 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  86.906 ms  86.912 ms  86.907 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  156.517 ms  156.517 ms  156.512 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.211 ms  12.217 ms  12.212 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 3  heanet-gw.mx1.lon.uk.geant.net (62.40.125.125)  12.212 ms  12.280 ms  12.276 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  87.198 ms  87.212 ms  87.198 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+11  cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  156.541 ms  156.600 ms  156.512 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  156.597 ms  156.612 ms  156.619 ms
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  2.912 ms  2.908 ms  2.934 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+11  cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  181.367 ms cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  156.725 ms cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  157.912 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 00:02:03 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 01:02:29 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 02:02:54 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  99.816 ms  99.817 ms  99.812 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 03:03:19 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 04:03:44 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 05:04:09 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 06:04:35 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 07:05:00 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 7  et-5-0-0.111.rtr.losa.net.internet2.edu (198.71.45.21)  156.176 ms  158.412 ms  158.395 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 08:05:25 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 09:05:51 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 2  te0-5-0-1-40-cr2-cwt.hea.net (193.1.244.121)  3.294 ms  3.307 ms  3.312 ms
+ 9  * * *
+12  * * *
+13  Planetlab2.CS.UCLA.EDU (131.179.150.72)  156.494 ms  156.509 ms  156.512 ms
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 10:06:17 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 11:06:42 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+11  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  156.512 ms cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  156.571 ms  156.455 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 12:07:08 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 13:07:33 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 14:08:00 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 5  et-5-0-0.104.rtr.atla.net.internet2.edu (198.71.45.6)  99.706 ms  99.712 ms  99.974 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 15:08:26 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+10  bd11f1.anderson--cr01f2.csb1.ucla.net (169.232.4.4)  156.716 ms bd11f1.anderson--cr01f1.anderson.ucla.net (169.232.4.6)  156.585 ms  156.612 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 16:08:51 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  111.308 ms  111.318 ms  111.312 ms
+ 9  * * *
+11  cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  156.712 ms  165.140 ms cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  165.105 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 17:09:17 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 18:09:43 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 19:10:09 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 20:10:34 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 8  137.164.26.200 (137.164.26.200)  156.217 ms  156.212 ms  156.207 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 21:11:00 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 22:11:25 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 4  internet2-gw.mx1.lon.uk.geant.net (62.40.124.45)  86.904 ms  86.914 ms  86.912 ms
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+Tue Apr 12 23:11:51 UTC 2016
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+11  cr01f2.csb1--dr01f2.csb1.ucla.net (169.232.4.53)  156.612 ms cr01f1.anderson--dr01f2.csb1.ucla.net (169.232.4.55)  156.710 ms  156.699 ms
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *
+Beginning of new TRACEROUTE measurement
+traceroute to planetlab2.cs.ucla.edu (131.179.150.72), 30 hops max, 60 byte packets
+ 9  * * *
+12  * * *

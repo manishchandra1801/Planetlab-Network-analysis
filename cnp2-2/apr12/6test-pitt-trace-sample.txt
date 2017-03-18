@@ -1,0 +1,15 @@
+Beginning of new TRACEROUTE measurement
+Thu Mar 31 03:54:54 UTC 2016
+traceroute to planetlab2.cs.pitt.edu (192.52.240.214), 30 hops max, 60 byte packets
+ 1  219.243.208.49 (219.243.208.49)  0.263 ms  0.272 ms  0.296 ms
+ 2  210.25.189.65 (210.25.189.65)  4.444 ms  4.433 ms  4.401 ms
+ 3  210.25.189.18 (210.25.189.18)  0.444 ms  0.481 ms  0.524 ms
+ 4  210.25.189.50 (210.25.189.50)  149.483 ms  149.479 ms  149.458 ms
+ 5  210.25.189.134 (210.25.189.134)  147.367 ms  147.411 ms  147.424 ms
+ 6  et-1-0-0.111.rtr.hous.net.internet2.edu (198.71.45.20)  179.835 ms  179.837 ms  179.823 ms
+ 7  et-10-0-0.105.rtr.atla.net.internet2.edu (198.71.45.12)  203.816 ms  203.889 ms  203.867 ms
+ 8  et-9-0-0.124.rtr.ashb.net.internet2.edu (64.57.28.12)  217.400 ms  217.477 ms  217.313 ms
+ 9  et-3-1-0-1285.externals-cl.gw.pitt.edu (136.142.253.149)  222.691 ms  222.897 ms  222.851 ms
+10  vl712.cl-core-2.gw.pitt.edu (136.142.2.162)  223.239 ms  223.097 ms  223.654 ms
+11  et4-2.fq-core-2.gw.pitt.edu (136.142.253.198)  223.146 ms  223.129 ms  222.912 ms
+12  planetlab2.cs.pitt.edu (192.52.240.214)  230.117 ms  227.518 ms  234.194 ms
